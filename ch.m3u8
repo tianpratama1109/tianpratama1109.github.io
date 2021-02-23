@@ -1,225 +1,121 @@
-#EXTM3U
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title=“LOKAL”,TVRI 720p
+http://118.97.50.107:80/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title=“LOKAL”,Metro TV 720p 1
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-====================================================  LOKAL FTA DEDY  =======================================================
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9BBT69T/SPhoto-Editor-20170605-231113.jpg" group-title="LOKAL FTA DEDY",INFO SINGKAWANG
-http://dw.convertfiles.com/files/0671713001598473627/videoplayback%20%281%29.mkv
+#EXTINF:-1 tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title=“LOKAL”,Metro TV 720p 2
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/Y26CKRx5/tvri2.png" group-title="LOKAL FTA DEDY", TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title=“LOKAL”,Trans TV 720p
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqWQJHvP/anttv2.png" group-title="LOKAL FTA DEDY",ANTV
-https://nonton.site:8443/live/novi/novi123/31.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmyQVQrf/sctv3.png" group-title="LOKAL FTA DEDY",SCTV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=70b442faf7651ffb07f62cf81fb677b2f361ef87af77022b1a72f12fbbf65eb1
-http://210.210.155.35/qwr9ew/s/s03/02.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/mncc.png" group-title="LOKAL FTA DEDY",MNCTV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417c4195da44844bf090c1730f35f20aa65
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="LOKAL FTA DEDY",INDOSIAR
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc901553f361ef87af77022b1a72f12fbbf65eb1
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/rctiv.png" group-title="LOKAL FTA DEDY",RCTI
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96c4195da44844bf090c1730f35f20aa65
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://zalogi.xyz/logo/transtv3.png" group-title="LOKAL FTA DEDY",TRANS TV
+#EXTINF:-1 tvg-logo="https://zalogi.xyz/logo/transtv3.png" group-title=“LOKAL”,TRANS TV 1080p
 https://nonton.site:8443/live/novi/novi123/929.m3u8
 
-#EXTINF:-1 tvg-logo="https://zalogi.xyz/logo/trans7-2.png" group-title="LOKAL FTA DEDY",TRANS 7
+
+#EXTINF:-1 group-title=“LOKAL” tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png?v=2.0.0.13",RRI NET 720p
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title=“LOKAL”,Trans 7
+720p
+
+#EXTINF:-1 tvg-logo="https://zalogi.xyz/logo/trans7-2.png" group-title=“LOKAL”,TRANS 7 1080p
 https://nonton.site:8443/live/novi/novi123/930.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T3r9nZjk/rtv2.png" group-title="LOKAL FTA DEDY",RTV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=9fe7c84b8253e88099d47237e0b7367cf361ef87af77022b1a72f12fbbf65eb1
-http://210.210.155.35/qwr9ew/s/s12/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/gtvv.png" group-title="LOKAL FTA DEDY",GTV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ec4195da44844bf090c1730f35f20aa65
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t45f2Hw/net3.png" group-title="LOKAL FTA DEDY",NET TV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4f361ef87af77022b1a72f12fbbf65eb1
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXpD3f6p/tvone22.png" group-title="LOKAL FTA DEDY",TV ONE
-http://210.210.155.35/qwr9ew/s/s105/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://cekker.masuk.web.id/logo/inewsss.png" group-title="LOKAL FTA DEDY",INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KY3GkngF/kompas2.png" group-title="LOKAL FTA DEDY",KOMPAS TV
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=ffd67d44870fda644560c47682a87a73&cdy=af27b0f197147cee7d7b34b47d6555acf361ef87af77022b1a72f12fbbf65eb1
-https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(d3cde5d1-d8a8-422f-9eb1-fdd4b6f29ab8)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title="LOKAL FTA DEDY",METRO TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65Kyk14Z/metrotv2.png" group-title=“LOKAL”,METRO TV 720p
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZnphJGX/bs22.png" group-title="LOKAL FTA DEDY",Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-https://bonetv.xyz/m3u/vidio-beritasatu-boneplay.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="LOKAL FTA DEDY",CNBC
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title=“LOKAL”,CNBC 720p
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://bonetv.xyz/m3u/usee-cnbcindonesia-boneplay.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="LOKAL FTA DEDY",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title=“LOKAL”,CNN Indonesia 720p
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.ibb.co/482zQhM/JKTGLBID-S1.png" group-title="LOKAL FTA DEDY", Jakarta Globe
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title=“LOKAL”,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title=“LOKAL”,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w31589757_b384000_sleng.m3u8?_=1547207286697
 
 
-
-========================================================================   Astro Malaysia  ====================================================================
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9H9jx8r/RTM1-PPI.png" group-title="Astro Malaysia",TV1
+========= ASTRO MALAYSIA ==========
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9H9jx8r/RTM1-PPI.png" group-title="Astro Malaysia",TV1 720p
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RY348Hg/RTM2-PPI.png" group-title="Astro Malaysia",TV2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RY348Hg/RTM2-PPI.png" group-title="Astro Malaysia",TV2 1080p
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 http://188.40.76.108:25461/live/mytv01/uSIRzmks51/121.ts
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro Malaysia",TV3
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Astro Malaysia",TV3 720p
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Astro Malaysia",NTV7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LnYVMQN/TV7-PPI.png" group-title="Astro Malaysia",NTV7 720p
 http://50.7.161.82:8278/streams/d/NTV7/playlist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 http://mu02.v2iptv.com:8880/live/LZLM6171/6Z6jTLNRyg/1731.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Astro Malaysia",8TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JF474FR/TV8-PPI.png" group-title="Astro Malaysia",8TV 720p
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 http://portal.geniptv.com:8080/live/12hmg20021522/HeBv1XyEQr/18553.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Astro Malaysia",TV9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsNDd3Z/TV9-PPI.png" group-title="Astro Malaysia",TV9 720p
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 http://mu02.v2iptv.com:8880/live/LZLM6171/6Z6jTLNRyg/1729.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Astro Malaysia",Astro Boo
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="Astro Malaysia",Astro Boo 720p
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro Malaysia",Astro Citra
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Astro Malaysia",Astro Citra 720p
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 http://zalogi.site:25461/live/live/live/69.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Astro Malaysia",Astro Ceria
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Astro Malaysia",Astro Ceria 720p
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0q9XbVZ/ASTRORIA-PPI.png" group-title="Astro Malaysia",Astro Ria
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0q9XbVZ/ASTRORIA-PPI.png" group-title="Astro Malaysia",Astro Ria 720p
 http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6s5xmGR/ASTRO-PRIMA-PPI.png" group-title="Astro Malaysia",Astro Prima
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6s5xmGR/ASTRO-PRIMA-PPI.png" group-title="Astro Malaysia",Astro Prima 720p
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Astro Malaysia",Astro Warna
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="Astro Malaysia",Astro Warna 720p
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="Astro Malaysia",Astro Oasis
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/70_144.png" group-title="Astro Malaysia",Astro Oasis 720p
 http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 http://62.210.127.144:8080/1p4E5Bb6bB/kU0V31pSub/9615?play_token=psVOU1foRx&token=QhVcUhcJRggXUAcDA1QJDFZSUAdVUVxRVwZXVAcBV1RcAlAKU1MBC1NGGURBEkJRAFtpWgVEXlpTVQBNRBcRBEtoXVdGW0YKDVUGXwdEHBYVX1tWQ1xVVVVSDFZeWlBXFRVEWgBDXhAEVwZWCkQcFgROQlYTCAUPOgBQFw8BB0MDWUFfCE1GXVs7UQNfB15QQwwUA0NKRgoWFBdbCBcODRUVVloQEwVGUEYPRANQBgxDGhRQDhMKFxcdF1tEKyZDFRVRSxAECkFcC1tECERER0MaFFoSORYGFhBHBAcPBxMbDRYDRk1GX1QcagVdCF5RAkJfXA8VRllHVRdNRA8ND1BDW0E7EQ1WF14XVwFRAQJDSw==
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMdd1kb/DRAMASANGAT-PPI.png" group-title="Astro Malaysia",DRAMA SANGAT HD
-https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8
-https://stream-03.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0vgMik7gMH6R_qf-uWY3nOI)/dm/3/x6zvnex/s/live-4.m3u8
-https://fvtv.mywire.org/playlist/2ua1sbzyxg-zxscuf2xek.m3u8
-
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png" group-title="Astro Malaysia",Astro Rania
-http://50.7.161.82:8278/streams/d/Rania/playlist.m3u8
-
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="Astro Malaysia",Astro Aura
-http://50.7.161.82:8278/streams/d/Aura/playlist.m3u8
-
-EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch607.jpg" group-title="Astro Malaysia",PESONA
-http://185.59.220.88:25461/QMlOgVQyTU/drwbzznBoq/55468?token=GRdRWUpbQV9BAQFeV1MBVANXD1JRDlUCAQBUAFIHDQVTBV0BCVJaUAURFEQQFxAGVQxnD1YVCVQGV1IKHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQsEVQ0FVgQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-http://185.59.220.88:25461/BTAqRsZWCv/Uo2y7MFmJP/55468?play_token=gkTmnqdDVu&token=GRdRWUpbQV9BBllSW1RVUAxTDgUEU1IDVlNWUwZXDgJVVA8KCgMBU1QRFEQQFxAGVQxnD1YVCVQGV1IKHEFNQgdHZlFdEVlHWgIOVVZRQE8WFVELVxUJUAZaUwsJVg8GVxkbSFBXQV8NRlQKT0EHG0AESghTW2wFVhUNUVVBAl8XWVUUG1wNOgdWVQcNB0BZFlAaShBeQBERWQpHXA8UEwBcTUpYRwZHWV1NCg9PQABbFFYSQE4RWxEqIBAcQV1JFlBXS1BcDUdZEUwVQU9ACkc+SgNBQ0EEUg4BQBJZGgFAGRtVWEs8BgxdVgMAFwsMWhIaXBAGEU0RDgtcWRdXQz1FUFwbCQ0QD19F
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/7/78/Suria.png/revision/latest/scale-to-width-down/340?cb=20190304234903" group-title="Astro Malaysia",SURIA
-http://62.210.127.144:8080/1p4E5Bb6bB/kU0V31pSub/9598?play_token=gTMD1e7vOA&token=QhVcUhcJRggXAVFTAgIEBgIPBQBZXwBWVlcCVFFRBlgMAFFWXVFUBgJGGURBEkJRAFtpWgVEXlpQXQ1NRBcRBEtoXVdGW0YKDVUGXwdEHBYVX1tWQ1xVVVVSDFRVUltSFRVEWgBDXhAAUgRSEEoSURlCU0EPBwg8AQFDCAUHQFtXQlhfSEMLXGoAUAtTCFQWWxQGEU1EDRAVRg8PEw4OTRtVXUcWABBXF14XUwJTARZNFFVcFAgQERxGD0MvJkBNG1JMRwEPF1taChdcEBJDFk0UX0A+FAEQERZQAAsHEEMDFQQRSEMJU007VglcCFVXFV9ZXRJEXkFURhlDCw0MCE1YRmwUCAAQD0YAXwFWEkk=
-http://tyciptv.site:8080//live/oliver/9WRKVxts1y/59290.ts
-
-#EXTINF:-1  tvg-logo="https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png" group-title="Astro Malaysia",Dunia sinema
-http://62.210.127.217:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/28681?play_token=IUxTrKRV5S&token=QhVcUhcJRggXUVNVBgMFVwMABgBWU1xWUVFWU1NaBAcPDlJXBQcGC1RGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBWCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="Astro Malaysia",MY OH!K HD
-http://50.7.161.82:8278/streams/d/Ohik/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="Astro Malaysia",ASTRO AEC
-http://50.7.161.82:8278/streams/d/Aec/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kj2vHR1/RTMOKEY-PPI.png" group-title="Astro Malaysia",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" group-title="Astro Malaysia",AL HIJRIAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Astro Malaysia",Naura
+#EXTINF:-1 tvg-logo=" group-title="Astro Malaysia",Naura 720p
 http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 https://fvtv.mywire.org/playlist/uwn5qna2wm-qywbpjhcrm.m3u8
 
-#EXTINF:-1 tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x536.jpg" group-title="Astro Malaysia",HELLO
+#EXTINF:-1 tvg-logo="https://liveatpc.com/wp-content/uploads/2018/08/Astro-HEllo-750x536.jpg" group-title="Astro Malaysia",HELLO 720p
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1257932646119731201/hRcU5eBK_400x400.jpg" group-title="Astro Malaysia",PERTIWI TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1257932646119731201/hRcU5eBK_400x400.jpg" group-title="Astro Malaysia",PERTIWI TV 720p
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Astro Malaysia",RTB
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="Astro Malaysia",RTB 1080p
 https://rtb-channel.glue.live/smil:rtb1/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="Astro Malaysia",Astro Supersport 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+================Entertaint===============
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="Astro Malaysia",Astro Supersport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="Astro Malaysia",Astro Supersport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mg0WZG8b/astro4.png" group-title="Astro Malaysia",Astro Supersport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
-============================================  Entertaint  ======================================
-
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="Entertaint",AXN
-http://210.210.155.35/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QC7sVsBb/bios2.png" group-title="Entertaint",Bioskop Indonesia 
-https://nonton.site:8443/live/novi/novi123/908.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/m2M2g3Cs/blue-ext22.png" group-title="Entertaint",Blue ant extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvTBhtxC/blue-abt22.png" group-title="Entertaint",Blue Ant
-http://45.126.83.51/dr9445/h/h16/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMTgHXC0/cinew2.png" group-title="Entertaint",CINEMA_WORLD
-https://nonton.site:8443/live/novi/novi123/1194.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2SRRcPqp/cbio2.png" group-title="Entertaint",Citra Bioskop
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388c4195da44844bf090c1730f35f20aa65
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/481K2xr/ZQ.jpg" group-title="Entertaint",Drama Korea TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/481K2xr/ZQ.jpg" group-title="Entertaint",Drama Korea TV 720p
 http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="Entertaint",Dunia Lain
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e997cf1d9968efefa570a588d92288eab29b
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/LXrN4MF2/flik2.png" group-title="Entertaint",Flik
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=974a977ed8c481816eab7f4fdf6cfc2de3d659e2de4e43ad562e064ecda07330
@@ -228,260 +124,70 @@ https://nonton.site:8443/live/novi/novi123/29592.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HsLC8QfK/imc2.png" group-title="Entertaint",Imc
 http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W3r2Bp2W/1200px-Seoul-Broadcasting-System-logo-svg.png" group-title="Entertaint",SBS Korea
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png" group-title="Entertaint",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="Entertaint",TVNHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyDZR4v6/tvn2.png" group-title="Entertaint",TVNHD 720p
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/264rYjnQ/tvnm2.png" group-title="Entertaint",TVN MOVIES
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e634d2e5a52687128135405dcec2a585e3d659e2de4e43ad562e064ecda07330
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nhPVhdr0/kp2.png" group-title="Entertaint",Kplus
-http://210.210.155.35/uq2663/h/h08/index2.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small.png" group-title="Entertaint",SGEM
-http://103.129.222.109/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=b2227a1123247c5d687970792882b169cf1d9968efefa570a588d92288eab29b
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="Entertaint",SONE
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="Entertaint",SONE 720p
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5NJj6T09/zeeb2.png" group-title="Entertaint",Zee-bioskop
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Entertaint",Zing
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5ce3d659e2de4e43ad562e064ecda07330
-
-
-
 ====================================================  Knowledge  ==========================================
+
 #EXTINF:-1tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="Knowledge",Biznet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Qmy3p8Z/love22.png" group-title="Knowledge",Love_nature
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7c4195da44844bf090c1730f35f20aa65
-https://nonton.site:8443/live/novi/novi123/96.m3u8
 
-#EXTINF:-1 tvg-logo=" group-title="Knowledge",SMITHSONIAN
-https://nonton.site:8443/live/novi/novi123/35998.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kGmYFd1w/animal22.png" group-title="Knowledge",Animal Planet 720p
 https://nonton.site:8443/live/novi/novi123/358.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtMkwhw/bbce2.png" group-title="Knowledge",Bbc Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pXtMkwhw/bbce2.png" group-title="Knowledge",Bbc Earth 720p
 https://nonton.site:8443/live/novi/novi123/385.m3u8
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C52Yx5Ld/cgtn2.png3" group-title="Knowledge",Cgtn Documentary 
-http://codaytv.eu/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad2e3d659e2de4e43ad562e064ecda07330
-
-#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="Knowledge",Discovery Asia 720p
 https://nonton.site:8443/live/novi/novi123/779.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="Knowledge",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHqfmsy1/disco2.png" group-title="Knowledge",Discovery Channel 720p
 https://nonton.site:8443/live/novi/novi123/165.m3u8
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge",Discovery Science HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/57415.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs00cL3y/nat-p.png" group-title="Knowledge",Nat Geo People
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs00cL3y/nat-p.png" group-title="Knowledge",Nat Geo People 720p
 https://nonton.site:8443/live/novi/novi123/96.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxKb0062/nat-wild.png" group-title="Knowledge",Nat Geo Wlid
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxKb0062/nat-wild.png" group-title="Knowledge",Nat Geo Wlid 720p
 https://nonton.site:8443/live/novi/novi123/97.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBjNS4P2/nat-ge.png" group-title="Knowledge",Nat Geo
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBjNS4P2/nat-ge.png" group-title="Knowledge",Nat Geo 720p
 https://nonton.site:8443/live/novi/novi123/455.m3u8
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="Knowledge",History
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTrntn5y/histo2.png" group-title="Knowledge",History 720p
 https://nonton.site:8443/live/novi/novi123/718.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Knowledge",Travel Channel
-http://62.210.127.217:8080/W1qQqsgDM1/UKyYzzMZJE/28637?play_token=6bHAbIX28I&token=QhVcUhcJRggXV1YAB1NUUQUPUgNUVQVVAQcEBFFXBwUAVVIKVwQBVAdGGURBEkJRAFtpWgVEXlFdUgZWSkAXElxFa1oAQ14QAlIMUQRTEhhDQl9eBEReUlBdDVJRVVVUARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
 
 ================================================ Anak anak ===================================
 
-#EXTINF:-1 tvg-logo="https://freeview.github.io/logos/cbeebies.png" group-title="Anak anak",CBEEBIES
+#EXTINF:-1 tvg-logo="https://freeview.github.io/logos/cbeebies.png" group-title="Anak anak",CBEEBIES 720p
 https://fvtv.mywire.org/playlist/4mmwz5fsj0-rm2jsvp8uk.m3u8
 
-#EXTINF:-1 tvg-id="Baby TV HD-ClipTV" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="Anak anak",Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="CBE.UK" tvg-logo="http://mod.cht.com.tw/img/channel/channelpic/108.png?rand=246" group-title="Anak anak",CBeebies
-http://51.52.156.22:8888/http/003
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.online/img/aniplus.png" group-title="Anak anak",ANIPLUS HD
-http://62.210.127.217:8080/wZaycrK8xX/bdYY5adxpx/28708?play_token=pcVoNqsBF7&token=QhVcUhcJRggXUgdXBlQFV1dSAwFWBQZbB1VWU1UEUAJbBABQVFkAU1ZGGURBEkJRAFtpWgVEXlFdUwVZSkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTVVVUChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Anak anak",CARTOON NTWK HD
-http://62.210.127.217:8080/wZaycrK8xX/bdYY5adxpx/28689?play_token=JXIaAK5Doy&token=QhVcUhcJRggXV1FfB1cDUVMFVwNXXwAFAVAFU1NTU1gLBgQKU1RcAwZGGURBEkJRAFtpWgVEXlFdUg1YSkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTVVtVABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Anak anak",Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.online/img/disney.png" group-title="Anak anak",DISNEY CHANNEL HD
-http://62.210.127.217:8080/wZaycrK8xX/bdYY5adxpx/28685?play_token=Wt3Y4mNBoJ&token=QhVcUhcJRggXBVNXBwNRDAAAUwVWUFAHAwUFA1YEBwMMVgMEAlUFBwZGGURBEkJRAFtpWgVEXlFdUg1USkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTWlJQChsWQw0FRggXVgxTA1MSGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAQ1XFBoRAgkRDREWTENcQCslGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFUBgBWFEs=
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.online/img/disney_junior.png" group-title="Anak anak",Disney junior
-http://103.47.132.165/PLTV/88888888/224/3221227539/3.m3u8
-
-#EXTINF:-1 tvg-logo="http://x1.cdn.broiptv.online/img/disney_xd.png" group-title="Anak anak",DISNEY XD HD
-http://62.210.127.217:8080/wZaycrK8xX/bdYY5adxpx/28683?play_token=fXzeJXThtn&token=QhVcUhcJRggXUAAAUFUGVwMEUgJUX1xRUlcHAgVbUwQMBgZSBVRcVgZGGURBEkJRAFtpWgVEXlFdUg1SSkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTWlNQChsWQw0FRggXVQxSBVISGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBXAgRXFBoRAgkRDREWTENcQCslGxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRAFRBw1DSw==
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="Anak anak",NICK JR
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=913c4858c66af34fc5575fcb46f3fecb60f62053334097ebcb0922aa1513b425&coday=5ac28784e1d357b2cc3e84ba4101d82e
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L6YDzz4g/nk.png" group-title="Anak anak",Nick Kid
-http://62.210.127.217:8080/wZaycrK8xX/bdYY5adxpx/28655?play_token=dmQuKYNyrI&token=QhVcUhcJRggXAgwHCwBUBFQBAFEAAldbUFINAwcDUVhaUw0AXFdSAQ1GGURBEkJRAFtpWgVEXlFdUgBUSkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTWlBUCxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="Anak anak",Nickelodeon
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=f19b88e6cb8cb067565bb3880b2fb3e160f62053334097ebcb0922aa1513b425&coday=5ac28784e1d357b2cc3e84ba4101d82e
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="Anak anak",Warner TV HD
-http://62.210.124.97:8080/wZaycrK8xX/bdYY5adxpx/33255?play_token=TgXHnN8Bat&token=QhVcUhcJRggXXANWBAMFAlIGVQMFUlQHVlwBVVZSW1daUQwKAFNTBQNGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QA1cNVwpTEhhDQl9eBEReUlBdDVJTWlFYDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="Anak anak",Boomerang
-http://62.210.127.217:8080/W1qQqsgDM1/UKyYzzMZJE/28690?play_token=7WXy7zhbFm&token=QhVcUhcJRggXVAUAAANRVlFTVVFRVlQGUFAAVwUGUQUBU1JSU1NWUQxGGURBEkJRAFtpWgVEXlFdUgxRSkAXElxFa1oAQ14QAlIMUQRTEhhDQl9eBEReUlBdDVJRVVNVDRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/367_144.png" group-title="Anak anak",Dmax
-http://185.59.222.189:25461/QMlOgVQyTU/drwbzznBoq/110246?play_token=PsRNZ1puy2&token=GRdRWUpbQV9BBA1fUwFWAgxRXQIKVVFXBQcHV1EHC1RSDQ0KDAYHXAARFEQQFxAGVQxnD1YVCVACU1YGBk8aRBFQS2dQV0FfQQILVlNaUFEWTRoSW1pWQwlSUQsIVgoAUAUKFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRnt0QRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4=
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/86_144.png" group-title="Anak anak",MY ANIMAX
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=5caf1a2c96ae8d2770427f4f1310434ad4ea83fbe6133ae203ea139a69250d85
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="Anak anak",Dreamworks
-http://103.28.53.75/~cdaymyid/coday_play.m3u8?shinta=open_bid_script_codaytv&cdy=def4a8e6dcb356771aef3c3ac472f90560f62053334097ebcb0922aa1513b425&coday=5ac28784e1d357b2cc3e84ba4101d82e
-
-#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Anak anak",Da Vinci
+#EXTINF:-1 tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" group-title="Anak anak",Da Vinci 720p
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="POP.UK" tvg-logo="http://static.epg.best/gb/Pop.uk.png" group-title="Anak anak",Pop UK
-https://edge-1192-ch-gv.filmon.com/live/320.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PMX.UK" tvg-logo="https://static.epg.best/gb/POPMax.uk.png" group-title="Anak anak",POP Max
-https://edge-1192-ch-gv.filmon.com/live/316.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TPO.UK" tvg-logo="https://static.epg.best/gb/Tinypop.uk.png" group-title="Anak anak",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
-
-
-==========================================================  MY FILM =====================================================
-
-
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="MY FILM", Ccm
-http://vp2p2s.my6868.cc/20396/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvfYwMNF/cele2.png" group-title="MY FILM",CELESTIAL HD
-http://210.210.155.35/qwr9ew/s/s33/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVwbFq08/fox2.png" group-title="MY FILM",FOX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVwbFq08/fox2.png" group-title="MY FILM",FOX HD 720p
 https://nonton.site:8443/live/novi/novi123/95.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgNqdhfM/foxlife2.png" group-title="MY FILM",Fox life
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mgNqdhfM/foxlife2.png" group-title="MY FILM",Fox life 720p
 https://nonton.site:8443/live/novi/novi123/94.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydWbYPJX/foxm22.png", group-title="MY FILM",FOX MOVIES PREMIUM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydWbYPJX/foxm22.png", group-title="MY FILM",FOX MOVIES PREMIUM 720p
 https://nonton.site:8443/live/novi/novi123/98.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQ7FNGx/foxac22.png", group-title="MY FILM",FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmQ7FNGx/foxac22.png", group-title="MY FILM",FOX ACTION MOVIES 720p
 https://nonton.site:8443/live/novi/novi123/99.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W45yvK41/foxf2.png" group-title="MY FILM",FOX_FAMILY_MOVIES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W45yvK41/foxf2.png" group-title="MY FILM",FOX_FAMILY_MOVIES 720p
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6NFWkmY/galaxy2.png" group-title="MY FILM",Galaxypremium
-https://nonton.site:8443/live/novi/novi123/29603.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" group-title="MY FILM",THRILL
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8?fluxustv.m3u8
-http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Gmy39FDR/cinema2.png" group-title="MY FILM",Cinemax
-https://nonton.site:8443/live/novi/novi123/26599.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="MY FILM",Star Chinese Legend
-https://nonton.site:8443/live/novi/novi123/1859.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nj4Sj1P/star-chine4.png" group-title="MY FILM",Star Chinese Movies
-https://nonton.site:8443/live/novi/novi123/780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZq75ngM/kix2.png" group-title="MY FILM",KIK
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHPNmFhL/hits2.png" group-title="MY FILM",HITS FHD
-https://nonton.site:8443/live/novi/novi123/1195.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y2b57vhx/hitsmov2.png" group-title="MY FILM",Hits Movie FHD
-https://nonton.site:8443/live/novi/novi123/957.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nzkSJR4n/HBO4.png" group-title="MY FILM",HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-https://fdtvapps.xyz/channel/hbo.m3u8
-https://dl.dropbox.com/s/mz1iezbism3zjy6/hbo.m3u8?dl=1
-http://me.zichannels.my.id/ch/hbo.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/bN3dZwBH/hbosig.png" group-title="MY FILM",HBO SIGNATUTRE
-https://nonton.site:8443/live/novi/novi123/873.m3u8
-https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
-https://www.dropbox.com/s/dllbdpdkssknyjp/HBOSIGX.m3u8?dl=1
-http://me.zichannels.my.id/ch/sighd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZTTfdRR/hbohits4.png" group-title="MY FILM",HBO HITS
-https://nonton.site:8443/live/novi/novi123/26596.m3u8
-https://fdtvapps.xyz/channel/hbohits.m3u8
-https://www.dropbox.com/s/y1p3h8qlgfvctx8/HBOHITSS.m3u8?dl=1
-http://me.zichannels.my.id/ch/hits.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQqXZKMn/hbofam.png" group-title="MY FILM",HBO FAMILY
-https://nonton.site:8443/live/novi/novi123/26598.m3u8
-https://fdtvapps.xyz/channel/hbofam.m3u8
-https://dl.dropbox.com/s/epjbhhbgl8dmtdt/family.m3u8?dl=1
-http://me.zichannels.my.id/ch/family.m3u8
-
-EXTINF:-1 tvg-logo="https://i.postimg.cc/vTg7TjHt/red2.png" group-title="MY FILM",Red By HBO HD
-https://kamiselaluada.com/hbo/redfhd.m3u8
-http://me.zichannels.my.id/ch/red.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="MY FILM",Hbo HD india
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/57235.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/starmovies.jpg" group-title="MY FILM",Star Movies FHD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/58409.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/sony-pix.png" group-title="MY FILM",Sony Pix HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67218.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/zee-studio.png" group-title="MY FILM",Flix HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67082.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png" group-title="MY FILM",MNX Movies
-https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="MY FILM",Movies Now 
-https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8 
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Romedy_Now.jpg" group-title="MY FILM",Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJhfd1Z0/VIP.png" group-title="MY FILM",ViP_Megahit_HD
-http://live-ng-01.more.tv/hls/ViP_Megahit_HD/index_3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="IN:ZEE Action HD" tvg-logo="" group-title="MY FILM",IN:ZEE Action HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67266.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="UK:Zee Cinema" tvg-logo="" group-title="MY FILM",UK:Zee Cinema
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67276.m3u8
-
-
-===================================================================   SPORT DEDY  =================================================================================
+============== SPORT ==============
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="SPORT",RTM SPORT
 https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
@@ -561,126 +267,6 @@ https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="SPORT",EUROSPORT2 HD
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
-
-============================================= Channel Sports =========================================
-
-#EXTINF:-1 group-title="Channel Sports",Ten Sport
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/63594.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/sony-ten1-sd-2x.png" group-title="Channel Sports",Ten 1 HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67251.m3u8
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/58219.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/sony-ten2-hd-sd.png" group-title="Channel Sports",Ten 2 HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67252.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/star-sports-1.png" group-title="Channel Sports",Star Sport 1 HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/58220.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/star-sports-2.png" group-title="Channel Sports",Star Sport 2 HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/63591.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/sony-ten1-sd-2x.png" group-title="Channel Sports",Sony Ten1 FHD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/67251.ts
-http://103.194.169.115:25461/QMlOgVQyTU/drwbzznBoq/54249?play_token=Vib45bmfJJ&token=GRdRWUpbQV9BCgBTUlMBVFBXXVJXDwZXBlABUwNQXQBRUQsPAARaBFcRFEQQFxAGVQxnD1YVCVQHUVALHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg0DWwMVGklaB0dZEQtXU1NWQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFoCWBpKEFRcFF0XFksSWRp4JhcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRV1QHWRob
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest/scale-to-width-down/340?cb=20190322143848" group-title="Channel Sports",Sony Ten2 FHD
-http://103.194.169.115:25461/QMlOgVQyTU/drwbzznBoq/54248?play_token=FnV65fdm2S&token=GRdRWUpbQV9BVQ8FBVcGUFJTCAdXAAtXAlZRUABWXAZTAFwMCFVVBlcRFEQQFxAGVQxnD1YVCVQHUVAKHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg0DUQQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest/scale-to-width-down/340?cb=20190322144135" group-title="Channel Sports",Sony Ten3 FHD
-http://103.194.169.115:25461/QMlOgVQyTU/drwbzznBoq/54247?play_token=3aPJgvrgM0&token=GRdRWUpbQV9BAlxTAgYAVgVWClcGVgcCBFQGVABVWwMDA1gLCwZRVgURFEQQFxAGVQxnD1YVCVQHUVAFHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg0EUQQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channels/sony-six-sd.png" group-title="Channel Sports",SONY SIX HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/58207.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="Channel Sports",STAR SPORT SELECT 2 HD
-http://192.99.100.79:25461/live/eniqma/HD5CPq7DA8/58220.ts
-http://103.194.169.115:25461/QMlOgVQyTU/drwbzznBoq/54243?play_token=Nziaoh37UL&token=GRdRWUpbQV9BVV4FB1FaUlZZDlJXVlYCC1NQBlYHDFNTVgwNXABXB1ERFEQQFxAGVQxnD1YVCVQHUVABHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg0FVQEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png" group-title="Channel Sports",STAR SPORT SELECT 1 HD
-http://103.194.169.115:25461/QMlOgVQyTU/drwbzznBoq/54242?play_token=05nWxEidz2&token=GRdRWUpbQV9BVwECBVQDUAxUCl8CAgVQAAYHBlZQDQYGVg1eDAcAVFsRFEQQFxAGVQxnD1YVCVQHUVAAHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg0FUg0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",Espn1 AU
-http://185.102.218.107:25461/QMlOgVQyTU/drwbzznBoq/48274?play_token=LYFrRdi6Og&token=GRdRWUpbQV9BVg5WVgZQUgFYCQIGAlJWVlpSBgAGDlBVBQAAXFdQBlARFEQQFxAGVQxnD1YVCVULUVMGHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg4AVQAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw==
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",Espn2 AU
-http://185.102.218.107:25461/QMlOgVQyTU/drwbzznBoq/48273?play_token=suo2OIv5Mq&token=GRdRWUpbQV9BCwlRAFtWU1cAAFEDUQNUUlZcBgdVXldQUwkODlZaVVoRFEQQFxAGVQxnD1YVCVULUVMBHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoBUg4DVgwVGklaB0dZEQpfWlZVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSKnwTThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFpaV1AWHA==
-
-#EXTINF:-1 tvg-logo="https://freeview.github.io/logos/tennis.png" group-title="Channel Sports",Tennis Channel
-https://fvtv.mywire.org/playlist/e6zykynkct-nqugyw4vpt.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",True Tennis HD
-http://195.181.170.129:25461/QMlOgVQyTU/drwbzznBoq/55526?play_token=Qn1qoKvHIB&token=GRdRWUpbQV9BC11TAAUEVgAEDlAGDgIAAVsHUwlUCAJbAAoKDwJTBFYRFEQQFxAGVQxnD1YVCVQGVlYEHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoEUQoFVgcVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBLXYSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVlHUQQPV1BBHw==
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",Bein Sports 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",Bein Sports 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport HD 1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport HD 2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport HD 3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport HD 4
-https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport 6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",TrueSport 7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",BT SPORT 1 HD
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",BT SPORT 2 HD
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-http://195.181.170.129:25461/QMlOgVQyTU/drwbzznBoq/55510?play_token=sy0Kke0jlP&token=GRdRWUpbQV9BBAtTAlIDAAcACVdTBQBUUVZRAFVWWQFTDQFbAQACBwcRFEQQFxAGVQxnD1YVCVQGVlUCHEFNQgdHZlFdEVlHUgAIVlpRUEEYQ0wPX1IRWwJWXQoEUQoDWwYVGklaB0dZEQpVUlNQQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSKnwTThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaVFBTW1QWHA==
-dhorizki
-
-#EXTINF:-1 tvg-logo=" group-title="Channel Sports",BT SPORT FHD
-http://103.194.169.40:25461/x4V7JolAcG/yEyv512343/52437?token=GRdRWUpbQV9BCwlTVlZQB1JUC1UEDgZZUABRUVNRAAEDAVoMDwdTVQERFEQQFxAGVQxnD1YVCVQBV1cFHEFNQgdHZlFdEVlHUgAMUFdXVkEYQ0wPX1IRWwJVVAIGVwoDVgEVGklaB0dZEQxVU1NATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAIVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRWlYFQxREUVhGD0cRHRAKQXF1QBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFFbWlYNQ0U=
-
-======================================================================      RELIGI     =======================================================================
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",RODJA TV
-http://103.47.132.164/PLTV/88888888/224/3221227225/2.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",WHITE CH
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",AL SHIRAT
-https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",TV 4
-https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",INSAN TV
-http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",TV 9
-https://vcdnjt.useetv.com/joss/14/tv9/chunklist_w2005714057_b684100_sleng_65786.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",SURAU TV
-http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",AL-IMAN TV
-http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",ASHIIL TV
-http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",SALAM TV
-http://wowza60.indostreamserver.com:1935/salamtv/live/chunklist_w284712012.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",AL SAUDI QURAN
-http://45.126.83.51:80/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",RIFQANTV
-http://119.82.232.89:1935/rifqan/live/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",PULDAPII TV
-http://178.128.121.192/hlsmobile/web.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="RELIGI",NABAWI TV
-http://stream2.ninmedia.tv:80/nabawitv/nabawitv_360p/playlist.m3u8
-
-
 ==================================================================== LOKAL DAERAH  =================================================================================H
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg" group-title="LOKAL DAERAH",TVKU
@@ -758,250 +344,6 @@ http://122.248.43.138:1935/ch27/myStream/live.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XqZd5KLd/pp-1.jpg"  group-title="LOKAL DAERAH",Radar TV Tasikmalaya
 http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist.m3u8
 
-
-####### Tilawah Al-Qur'an #######
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[001] Surah Alfatihah (Pembukaan)
-https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[002] Surah Al-Baqarah (Lembu Betina)
-https://archive.org/download/MurotalMR/002.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[003] Surah Ali 'Imran (Keluarga Imran)
-https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[004] Surah An-Nisaa' (Wanita)
-https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[005] Surah Al-Maa'idah (Hidangan)
-https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[006] Surah Al-An'aam (Binatang Ternakan)
-https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[007] Surah Al-A'raaf (Tempat Tertinggi)
-https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[008] Surah Al-Anfaal (Rampasan Perang)
-https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[009] Surah At-Taubah (Pengampunan)
-https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[010] Surah Yunus (Nabi Yunus a.s.)
-https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[011] Surah Hud (Nabi Hud a.s.)
-https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[012] Surah Yusuf (Nabi Yusuf a.s.)
-https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[013] Surah Ar-Ra'd (Guruh)
-https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[014] Surah Ibrahim (Nabi Ibrahim a.s.)
-https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[015] Surah Al-Hijr (Kawasan Berbatu)
-https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[016] Surah An-Nahl (Lebah)
-https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[017] Surah Al-Israa' (Perjalanan Malam)
-https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[018] Surah Al-Kahfi (Gua)
-https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[019] Surah Maryam (Siti Maryam)
-https://archive.org/download/MurotalMR/019.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[020] Surah Taahaa
-https://archive.org/download/MurotalMR/020.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[021] Surah Al-Anbiyaa' (Para Nabi)
-https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[022] Surah Al-Hajj (Haji)
-https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[023] Surah Al-Mu'minun (Golongan yang Beriman) 
-https://archive.org/download/MurotalMR/023.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[024] Surah An-Nuur (Cahaya)
-https://archive.org/download/MurotalMR/024.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[025] Surah Al-Furqaan (Pembeza Kebenaran dan Kebatilan)
-https://archive.org/download/MurotalMR/025.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[026] Surah Asy-Syu'araa (Para Penyair)
-https://archive.org/download/MurotalMR/026.mp3
-#EXTINF:-1 tvg-logo="" group-title="AL-QURAN",[027] Surah An-Naml (Semut)
-https://archive.org/download/MurotalMR/027.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[028] Surah Al-Qasas (Cerita-cerita)
-https://archive.org/download/MurotalMR/028.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[029] Surah Al-'Ankabut (Labah-labah)
-https://archive.org/download/MurotalMR/029.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[030] Surah Ar-Rum (Bangsa Rom)
-https://archive.org/download/MurotalMR/030.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[031] Surah Luqman (Luqman)
-https://archive.org/download/MurotalMR/031.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[032] Surah As-Sajdah (Sujud)
-https://archive.org/download/MurotalMR/032.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[033] Surah Al-Ahzab (Golongan yang Bersekutu)
-https://archive.org/download/MurotalMR/033.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[034] Surah Saba' (Kaum Saba')
-https://archive.org/download/MurotalMR/034.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[035] Surah Faatir (Pencipta)
-https://archive.org/download/MurotalMR/035.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[036] Surah Yaasin
-https://archive.org/download/MurotalMR/036.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[037] Surah As-Saaffat (Yang Teratur Berbaris)
-https://archive.org/download/MurotalMR/037.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[038] Surah Saad
-https://archive.org/download/MurotalMR/038.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[039] Surah Az-Zumar (Rombongan)
-https://archive.org/download/MurotalMR/039.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[040] Surah Al-Ghafir / Al-Mu'min (Orang yang Beriman)
-https://archive.org/download/MurotalMR/040.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[041] Surah Fussilat (Dijelaskan)
-https://archive.org/download/MurotalMR/041.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[042] Surah Asy-Syuraa (Permesyuaratan)
-https://archive.org/download/MurotalMR/042.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[043] Surah Az-Zukhruf (Perhiasan Emas)
-https://archive.org/download/MurotalMR/043.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[044] Surah Ad-Dukhaan (Kabut / Asap)
-https://archive.org/download/MurotalMR/044.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[045] Surah Al-Jatsiyah (Yang Berlutut)
-https://archive.org/download/MurotalMR/045.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[046] Surah Al-Ahqaaf (Bukit-bukit Pasir)
-https://archive.org/download/MurotalMR/046.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[047] Surah Muhammad (Nabi Muhammad SAW)
-https://archive.org/download/MurotalMR/047.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[048] Surah Al-Fath (Kemenangan)
-https://archive.org/download/MurotalMR/048.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[049] Surah Al-Hujurat (Bilik-bilik)
-https://archive.org/download/MurotalMR/049.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[050] Surah Qaaf
-https://archive.org/download/MurotalMR/050.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[051] Surah Adz-Dzariyaat (Angin yang Menerbangkan)
-https://archive.org/download/MurotalMR/051.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[052] Surah At-Tur (Bukit)
-https://archive.org/download/MurotalMR/052.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[053] Surah An-Najm (Bintang)
-https://archive.org/download/MurotalMR/053.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[054] Surah Al-Qamar (Bulan)
-https://archive.org/download/MurotalMR/054.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[055] Surah Ar-Rahman (Yang Maha Pemurah)
-https://archive.org/download/MurotalMR/055.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[056] Surah Al-Waqi'ah (Peristiwa yang Tidak Dapat Dielakkan) 
-https://archive.org/download/MurotalMR/056.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[057] Surah Al-Hadid (Besi)
-https://archive.org/download/MurotalMR/057.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[058] Surah Al-Mujadilah (Perempuan yang Merayu)
-https://archive.org/download/MurotalMR/058.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[059] Surah Al-Hasyr (Pengusiran)
-https://archive.org/download/MurotalMR/059.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[060] Surah Al-Mumtahanah (Perempuan yang Diuji)
-https://archive.org/download/MurotalMR/060.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[061] Surah As-Saf (Barisan)
-https://archive.org/download/MurotalMR/061.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[062] Surah Al-Jumu'ah (Hari Jumaat)
-https://archive.org/download/MurotalMR/062.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[063] Surah Al-Munafiquun (Golongan Munafik)
-https://archive.org/download/MurotalMR/063.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[064] Surah At-Taghabun (Dinampakkan Kesalahan)
-https://archive.org/download/MurotalMR/064.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[065] Surah At-Talaq (Cerai / Talak)
-https://archive.org/download/MurotalMR/065.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[066] Surah At-Tahrim (Mengharamkan)
-https://archive.org/download/MurotalMR/066.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[067] Surah Al-Mulk (Kerajaan)
-https://archive.org/download/MurotalMR/067.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[068] Surah Al-Qalam (Pena / Kalam)
-https://archive.org/download/MurotalMR/068.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[069] Surah Al-Haaqqah (Keadaan Sebenar / Hari Kiamat)
-https://archive.org/download/MurotalMR/069.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[070] Surah Al-Ma'arij (Tempat-tempat Naik)
-https://archive.org/download/MurotalMR/070.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[071] Surah Nuh (Nabi Nuh a.s.)
-https://archive.org/download/MurotalMR/071.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[072] Surah A-Jin (Jin)
-https://archive.org/download/MurotalMR/072.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[073] Surah Al-Muzammil (Yang Berselimut)
-https://archive.org/download/MurotalMR/073.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[074] Surah Al-Muddathir (Yang Berselubung)
-https://archive.org/download/MurotalMR/074.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[075] Surah Al-Qiyaamah (Hari Kebangkitan / Kiamat)
-https://archive.org/download/MurotalMR/075.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[076] Surah Al-Insaan (Manusia)
-https://archive.org/download/MurotalMR/076.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[077] Surah Al-Mursalat (Malaikat Yang Diutus)
-https://archive.org/download/MurotalMR/077.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[078] Surah An-Naba' (Berita Besar)
-https://archive.org/download/MurotalMR/078.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[079] Surah An-Naazi'aat (Malaikat Yang Mencabut)
-https://archive.org/download/MurotalMR/079.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[080] Surah 'Abasa (Dia Bermasam Muka)
-https://archive.org/download/MurotalMR/080.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[081] Surah At-Takwiir (Menggulung)
-https://archive.org/download/MurotalMR/081.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[082] Surah Al-Infitar (Terpecah & Terbelah)
-https://archive.org/download/MurotalMR/082.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[083] Surah Al-Mutaffifiin (Golongan yang Curang)
-https://archive.org/download/MurotalMR/083.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[084] Surah Al-Insyiqaaq (Terbelah)
-https://archive.org/download/MurotalMR/084.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[085] Surah Al-Buruj (Gugusan Bintang)
-https://archive.org/download/MurotalMR/085.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[086] Surah At-Taariq (Pengunjung Malam)
-https://archive.org/download/MurotalMR/086.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[087] Surah Al-A'laa (Yang Tertinggi)
-https://archive.org/download/MurotalMR/087.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[088] Surah Al-Ghaasyiah (Peristiwa Menggelisahkan/Hari Pembalasan)
-https://archive.org/download/MurotalMR/088.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[089] Surah Al-Fajr (Fajar / Sinar Mentari)
-https://archive.org/download/MurotalMR/089.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[090] Surah Al-Balad (Negeri)
-https://archive.org/download/MurotalMR/090.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[091] Surah Asy-Syams (Matahari)
-https://archive.org/download/MurotalMR/091.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[092] Surah Al-Lail (Malam)
-https://archive.org/download/MurotalMR/092.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[093] Surah Adh-Dhuha (Pagi yang Cemerlang / Matahari Meninggi)
-https://archive.org/download/MurotalMR/093.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[094] Surah Al-Insyirah/An-Nasyrah (Melapangkan)
-https://archive.org/download/MurotalMR/094.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[095] Surah At-Tin (Buah Tin / Buah Ara)
-https://archive.org/download/MurotalMR/095.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[096] Surah Al-'Alaq (Segumpal Darah)
-https://archive.org/download/MurotalMR/096.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[097] Surah Al-Qadr (Kemuliaan)
-https://archive.org/download/MurotalMR/097.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[098] Surah Al-Baiyinah (Bukti yang Nyata)
-https://archive.org/download/MurotalMR/098.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[099] Surah Al-Zalzalah (Kegoncangan)
-https://archive.org/download/MurotalMR/099.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[100] Surah Al-'Aadiyaat (Yang Berlari Kencang)
-https://archive.org/download/MurotalMR/100.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[101] Surah Al-Qari'ah (Hari Yang Hingar Bingar/kiamat)
-https://archive.org/download/MurotalMR/101.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[102] Surah At-Takathur (Bermegah-Megah)
-https://archive.org/download/MurotalMR/102.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[103] Surah Al-'Asr (Masa)
-https://archive.org/download/MurotalMR/103.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[104] Surah Al-Humazah (Pengumpat)
-https://archive.org/download/MurotalMR/104.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[105] Surah Al-Fiil (Gajah)
-https://archive.org/download/MurotalMR/105.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[106] Surah Quraisy (Kaum Quraisy)
-https://archive.org/download/MurotalMR/106.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[107] Surah Al-Ma'un (Barangan Berguna)
-https://archive.org/download/MurotalMR/107.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[108] Surah Al-Kauthar (Sungai Di Syurga)
-https://archive.org/download/MurotalMR/108.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[109] Surah Al-Kafirun (Golongan Kafir)
-https://archive.org/download/MurotalMR/109.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[110] Surah An-Nasr (Pertolongan)
-https://archive.org/download/MurotalMR/110.mp3
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[111] Surah Al-Masad / Al-Lahab (Nyalaan Api)
-https://archive.org/download/MurotalMR/111.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[112] Surah Al-Ikhlas (Tulus Ikhlas / Memurnikan Keesaan Allah)
-https://archive.org/download/MurotalMR/112.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[113] Surah Al-Falaq (Waktu Subuh / Dinihari)
-https://archive.org/download/MurotalMR/113.mp3
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/59z8s3jH/quran-PNG22.png" group-title="AL-QURAN",[114] Surah An-Naas (Manusia)
-https://archive.org/download/MurotalMR/114.mp3
-
-
 =====================================Australia
 =====================================Australia
 
@@ -1040,9 +382,6 @@ https://sbs-live.akamaized.net/hls/live/2002826/channel4/geo/master_1800K.m3u8
 
 #EXTINF:-1 tvg-ID="TRE.NZ" tvg-logo="http://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/te-reo.png" group-title="Australia",Te Reo
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
-
-
-
 
 ======================================  TAIWAN  ================================
 
@@ -1188,10 +527,6 @@ http://ddbb.228888888.xyz:8081/live/tw103.m3u8
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/50ZyPD9G/taiwan.png" group-title="TAIWAN",非凡新聞
 http://ddbb.228888888.xyz:8081/live/tw110.m3u8
-
-=============================================================================Turkey===========================================================================
-
-
 
 ==============================  VIETNAM  =======================================
 
@@ -1397,540 +732,3 @@ http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://vitv.vn/Content/Images/logo.png" group-title="VIETNAM",VITV
 http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-
-======================================================
-
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",FROZEN
-https://dl.dropboxusercontent.com/s/imdx06da3maf5lj/Nonton%20Frozen%20II%20%282019%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",FROZEN II
-https://dl.dropboxusercontent.com/s/snq09nk3cs89nnv/Nonton%20Frozen%20%282013%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",Frozen (2013)
-http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",Frozen (2019)
-https://bitball.b-cdn.net/movies/indonesia/Frozen.2.20191.720p.WEB-DL.H264.AC3-EVO.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",Home Alone 4 (2002)
-http://www.deadlyblogger.com/NewRelease/homealone4.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",BoBoiBoy.The.Movie. (2016)
-https://bitball.b-cdn.net/movies/APRIL/04-25-2020/BoBoiBoy.The.Movie.2016.720p.NF.WEB-DL.x264.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Alya",BoBoiBoy.The.Movie 2 (2019)
-https://www.dropbox.com/s/4mtpw81nk92z9wy/Download%20BoBoiBoy%20The%20Movie%202%20%282019%29%20GUDANGFILM-Nonton%20Film%20Online%20Subtitl_1575605241726.mp4?dl=1
-======================================================= VOD Dedy ( Warkop DKI )================================
-
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Manusia 6.000.000 Dolar (1981)
-https://www.googleapis.com/drive/v3/files/1YSgvf2zvR0rskn4P6HO9oEVHXVEjxE8K?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Setan Kredit (1981)
-https://www.googleapis.com/drive/v3/files/1_lUquy2KaMMMcMutLcq06RjQuKV1YMQN?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",IQ Jongkok (1981)
-https://www.googleapis.com/drive/v3/files/1vXt7IJwCbc26qIMkEv6S3b5gEx3uqJKt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Dongkrak Antik (1982)
-https://www.googleapis.com/drive/v3/files/16xapX62lyon119AMLHZpWc1OfWpOeZc4?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",CHIPS (1982)
-https://www.googleapis.com/drive/v3/files/1ScaJDZ8dBUpXLyfpS4Sj2qzleyyg4Wdt?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Maju Kena Mundur Kena(1983)
-https://www.googleapis.com/drive/v3/files/1sDZOLfCbeEMr4LXwnM6HMxjH-ZEpV85W?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Gantian Dong(1985)
-https://www.googleapis.com/drive/v3/files/1hrLJVkCxpJUNjvJNEv41EaIRt_iufx_t?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Godain Kita Dong (1989)
-https://www.googleapis.com/drive/v3/files/1eg8XP38u5N0521tYjot0s0nXA2bWGnDS?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Kanan Kiri OK (1989)
-https://www.googleapis.com/drive/v3/files/1YZamkQgRrZHU6QL3iVdFxJHkQ1gN4i-j?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Kanan Kiri OK 2 (1989)
-https://www.googleapis.com/drive/v3/files/1VyaPGW89GwAorE2l9GQB3MVPXBxE5dJ6?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Kanan Kiri OK 3 (1990)
-https://www.googleapis.com/drive/v3/files/11f-IlQmST5DGe5fztSi22GIU1yLo5Qbf?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Warkop DKI)",Saya Duluan Dong (1994)
-https://www.googleapis.com/drive/v3/files/1j7vCBAq1OfmXbc6miLOdM0L_vAqxemFH?alt=media&key=AIzaSyDKGcEw0fDJPSW7GiMOZi5o4mc8JRQvyHo
-
-
-
-================================================    VOD Dedy (Malaysia)  ====================================
-
-
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Jodoh Syaitan (2020)
-https://cdn1.diebutx.com/ownhls/2020/a211ff9a23dacdb008e360dd26283c4c/720p/index.m3u8?nimblesessionid=58457136&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgOTo0NDoyMyBBTSZoYXNoX3ZhbHVlPVc3eVNKQmtQd3RCa2t2Nk5oZXk0Ync9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPWQwNDdjZjJhNDU4ZGFhMTdhNDc3MDJlZWMzYWRlNmRh&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgOTo0NDoyMyBBTSZoYXNoX3ZhbHVlPVc3eVNKQmtQd3RCa2t2Nk5oZXk0Ync9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPWQwNDdjZjJhNDU4ZGFhMTdhNDc3MDJlZWMzYWRlNmRh
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Telunjuk iblis (2020)
-https://cdn1.diebutx.com/ownhls/2020/71298cf9932cd29e1bdafb6399a83861/720p/index.m3u8?nimblesessionid=58483971&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MDE6MDggQU0maGFzaF92YWx1ZT1SWmdMdUZhaXdnNktMV3ZpVGFEUWNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MDE6MDggQU0maGFzaF92YWx1ZT1SWmdMdUZhaXdnNktMV3ZpVGFEUWNnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Racun Suami Jahanam (2020)
-https://cdn1.diebutx.com/ownhls/2020/22d0f488d8ef9074133a69a42e7665d5/720p/index.m3u8?nimblesessionid=58484838&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MDQ6MDAgQU0maGFzaF92YWx1ZT16dHJPc0JKMmRzbUxISkRUZEJuaUVnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MDQ6MDAgQU0maGFzaF92YWx1ZT16dHJPc0JKMmRzbUxISkRUZEJuaUVnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wThHz8tF/download-2.jpg group-title="VOD Dedy (Malaysia)",Istanbul aku datang(2020)
-https://bitball.b-cdn.net/movies/2020-05/05-01-2020/Istanbul.aku.datang!.2012.720p.NF.WEB-DL.x264.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Santau Maut (2020)
-https://cdn1.diebutx.com/ownhls/2020/caeedc65b428a00f1ccb46d197a849eb/720p/index.m3u8?nimblesessionid=58479622&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NDc6MzggQU0maGFzaF92YWx1ZT03K29HMW1hNnAwZnEyZEg4VXl4YWVRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NDc6MzggQU0maGFzaF92YWx1ZT03K29HMW1hNnAwZnEyZEg4VXl4YWVRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Misteri Bilik Bawah (2020)
-https://redirector.gdrivecdn.me/drive/index.php?id=4Nw1BVst3LSsv2qC9%2BpzTA2OFCvG2bU7J1r747CGelfAPzUS2l80vKlHY1xWSqTkPd0RNY%2F0L3GMzRq0icT%2FV%2BNEKZZurlAlxo9yJp2xeobGG8fzUQ%2BKH%2FLSjCgJ4tZoPqFcBMOecGjMjh0D0%2FrAAquaTL9B0CD4%2B%2FIEcOGD6sOHit8dWUFbNJyxtD6qQiUzM%3D&ref=http%3A%2F%2F103.194.171.205%2F&res=360
-#EXTINF:-1 tvg-logo="https://images.moviebuff.com/6bb7d964-2825-46f2-8835-60abfe8e14e7?w=500" group-title="VOD Dedy (Malaysia)",Mama (2020)
-https://bitball.b-cdn.net/movies/2020-05/05-05-2020/M4M4.2020.HD.720p.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Tiada tajuk (2019)
-https://cdn1.diebutx.com/ownhls/2020/b866badd4ea23683741a55acb3686f4b/360p/index.m3u8?nimblesessionid=58461989&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgOTo1NjozMiBBTSZoYXNoX3ZhbHVlPWF3OWVzQUhCMzltOGYwdjhtYjlUaVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPWQwNDdjZjJhNDU4ZGFhMTdhNDc3MDJlZWMzYWRlNmRh&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgOTo1NjozMiBBTSZoYXNoX3ZhbHVlPWF3OWVzQUhCMzltOGYwdjhtYjlUaVE9PSZ2YWxpZG1pbnV0ZXM9MjQwJmlkPWQwNDdjZjJhNDU4ZGFhMTdhNDc3MDJlZWMzYWRlNmRh
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Cubit-Cubit Cinta (2019)
-https://cdn1.diebutx.com/ownhls/2020/228f67e24fb7997ef0be3ea81e035556/480p/index.m3u8?nimblesessionid=58486954&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MTE6MDcgQU0maGFzaF92YWx1ZT1IbEVjb2h2bWF1RkNXZEhqcnl1aXd3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTE6MTE6MDcgQU0maGFzaF92YWx1ZT1IbEVjb2h2bWF1RkNXZEhqcnl1aXd3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",17 Puasa (2019)
-https://cdn1.diebutx.com/ownhls/2020/97fd4cbcd4917fd2685f959d1197cc35/720p/index.m3u8?nimblesessionid=58466126&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6MDc6MzAgQU0maGFzaF92YWx1ZT1lb2JhTzRDUm5aVFBaUUJ4NWhsbnl3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6MDc6MzAgQU0maGFzaF92YWx1ZT1lb2JhTzRDUm5aVFBaUUJ4NWhsbnl3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Puyah &  Putat (2020)
-https://cdn1.diebutx.com/ownhls/2020/906360e17e1b25dcaac33fc6c81b89c0/720p/index.m3u8?nimblesessionid=58480428&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NDk6NDIgQU0maGFzaF92YWx1ZT16M0gwemcycnJrUmRISE9PT0tRdUNRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NDk6NDIgQU0maGFzaF92YWx1ZT16M0gwemcycnJrUmRISE9PT0tRdUNRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vkwgzCBBiY3C1XEy0WakYfMOvnG.jpg" group-title="VOD Dedy (Malaysia)",Color Out ofSpace (2019)
-https://bitball.b-cdn.net/movies/2020-05/05-29-2020/Color.Out.of.Space.2019.720p.UHD.BluRay.x264-IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",Busut bonang (2019)
-https://cdn1.diebutx.com/ownhls/2020/e60f96a30096eb0de311961a3bbe477e/720p/index.m3u8?nimblesessionid=58481219&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NTI6MTUgQU0maGFzaF92YWx1ZT1sTWlKbzVOZkFKQnpJMFhtMVlmOG1RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NTI6MTUgQU0maGFzaF92YWx1ZT1sTWlKbzVOZkFKQnpJMFhtMVlmOG1RPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",KL Vampires (2019)
-https://cdn1.diebutx.com/ownhls/2020/1340eb5687fba6e6bb6a8fb380a9487f/720p/index.m3u8?nimblesessionid=58482477&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NTY6MTcgQU0maGFzaF92YWx1ZT1sZ2l5ZnZyVWFTWXJyWGJWTUxmdW13PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTA6NTY6MTcgQU0maGFzaF92YWx1ZT1sZ2l5ZnZyVWFTWXJyWGJWTUxmdW13PT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/nuJxfDeC9QrhoLDSeZx6ThxucYE.jpg" group-title="VOD Dedy (Malaysia)",Ejen Ali Movie (2019)
-https://bitball.b-cdn.net/movies/03-01-2020/Ejen.Ali.Movie.2019.HD.720p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/kg7iTXizZyGGEl5Oin753SxBdyK.jpg" group-title="VOD Dedy (Malaysia)",Wira (2109)
-https://bitball.b-cdn.net/movies/2020-06/06-23-2020/Wira.2019.720p.NF.WEB-DL.x264.IDFL.info.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/ypkq4I10WhVeErGR3jwUeHI53NT.jpg" group-title="VOD Dedy (Malaysia)",Pusaka (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Pusaka.2019.HDRip.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6BbNBcJ9hN34fhNnHofFH6ha0Nu.jpg" group-title="VOD Dedy (Malaysia)",Rise to Power: KLGU (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Rise.to.Power.A.KL.Gangster.Underworld.Movie.2019.WEBRip.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/vNz7OoY5STI0J9AJvtwB8IZst5i.jpg" group-title="VOD Dedy (Malaysia)",Sangkar (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Sangkar.2019.HDTV.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://reviewhumble.files.wordpress.com/2016/08/poster-film-munafik.jpg" group-title="VOD Dedy (Malaysia)",Munafik (2016)
-https://bitball.b-cdn.net/movies/2020-05/05-28-2020/Munafik.2016.WEB-DL.720p-IDFL.info.mp4
-#EXTINF:-1 tvg-logo="https://prokabar.com/wp-content/uploads/2018/09/B3FA430D-DB1C-4796-80C2-6DBB5A115A71.jpeg" group-title="VOD Dedy (Malaysia)",Munafik 2 (2018)
-https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Munafik.2.2018.720p.NF.WEB-DL.x264.IDFL.info.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/yVxoy0dBENzkPzfHAeP1QeeJ3TO.jpg" group-title="VOD Dedy (Malaysia)",Walk With Me (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Walk.With.Me.2019.BluRay.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/7DDqi6BiLgLieN3MaQYX36dOWIk.jpg" group-title="VOD Dedy (Malaysia)",Dendam Pontianak (2019)
-https://bitball.b-cdn.net/movies/02-12-2020/Dendam.Pontianak.2019.WEB-DL.480p.FMZM.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/XOIT1EFazQQf3UBDPrG3NOwN0t.jpg" group-title="VOD Dedy (Malaysia)",Rise Ini Kalilah (2018)
-https://bitball.b-cdn.net/movies/APRIL/04-30-2020/Rise-Ini.Kalilah.2018.480p.NF.WEB-DL.x264.IDFL.info.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/6aQpNVifrXy13MgRWyZnn2arZxM.jpg" group-title="VOD Dedy (Malaysia)",Pulang (2018)
-https://s21.cdncv.net/hls/mfqjx5cdv3o6sr7qw5ou3mi663pzjti5l3gwcgclbaklaun4ile7ja6nexua/index-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cinta_Paling_Agung_TV-152998247-large.jpg" group-title="VOD Dedy (Malaysia)",Cinta Paling Agung (2015)
-https://cdn.bitball.se//movies/02-12-2020/Cinta.Paling.Agung.2015.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Malaysia)",KL Special Force
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KL.Special.Force.2018.mp4/playlist.m3u8
-===================================================================  VOD Dedy (Indonesia) ===================================================
-
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Indonesia)",Laskar.Pelangi.2008
-https://bitball.b-cdn.net/movies/2020-05/05-22-2020/Laskar.Pelangi.2008.WEB-DL.720p.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Indonesia)",Mangkujiwo (2020)
-https://bitball.b-cdn.net/movies/2020-08/08-18-2020/Mangkujiwo.2020.WEB-DL.1080p.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Indonesia)",Akhir.Kisah.Cinta.si.Doel.2020
-https://bitball.b-cdn.net/movies/2020-05/05-26-2020/03-Akhir.Kisah.Cinta.si.Doel.2020.WEB-DL.720p.IDFL.info.mp4
-#EXTINF:-1 tvg-logo=" group-title="VOD Dedy (Indonesia)",Surat dari Kematian (2020)
-https://bitball.b-cdn.net/movies/03-03-2020/03-23-2020/Surat.dari.Kematian.2020.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Gundala (2019)
-http://www.supercartube.com/media/videos/h264/999_720p.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Cinta Itu Buta
-https://www.dropbox.com/s/dweai83t35wnzkv/Cinta.Itu.Buta.2019.WEB-DL.720p.-PusatFilm21.com.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",COKLAT STROBERY
-https://media-vidio-com.akamaized.net/uploads/1897723/ets-coklat-20-20stroberi-201080-20ftr-c6e6_c07c9948_premier.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Kutuk
-https://www.dropbox.com/s/d03ombyg5u1jy69/Kutuk.2019.WEB.DL.720p-PusatFilm21.com.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Kalung Jelangkung
-https://movie2.cinemakeren21.com/movies/02-14-2020/Kalung.Jelangkung.2011.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Makmum (2019)
-https://www.dropbox.com/s/ogiu9js28zgrr0h/Makmum.2019.WEB-DL.720p-PusatFilm21.com.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Mendadak Kaya
-https://www.dropbox.com/s/47ft7e4qhodb6cl/Mendadak.Kaya.2019.WEB-DL.720p-PusatFilm21.com.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Mile 22
-https://www.dropbox.com/s/9z99mio9lu6p2jn/%5Bmoviegan.com%5DMile.22.%282018%29.Bluray.720p.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Manusia Setengah Salmon
-https://media-vidio-com.akamaized.net/uploads/1508117/ets-manusia-20setengah-20salmon-20feature-convert-39e7-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Mau dong... ah
-https://media-vidio-com.akamaized.net/uploads/1853548/ets-mau-20dong-20ah_hd-20upscale_mix-7868_2f4d8615_premier.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",PSP: Gaya Mahasiswa
-https://www.dropbox.com/s/yeu8bga6aw2ny26/PSP.Gaya.Mahasiswa.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Pocong The Origin
-https://www.dropbox.com/s/ud3s3ubldzo9d9u/Pocong.The.Origin.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Petualangan Sherina (2000)
-https://movie2.cinemakeren21.com/movies/02-12-2020/Petualangan.Sherina.2000.REMASTERED.WEB-HD.720p.DD5.1.FMZM.mp4
-
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Dua Garis Biru
-https://www.dropbox.com/s/nbkceokroadk7ge/Dua.Garis.Biru.2019.WEB.DL.720p-PusatFilm21.com.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Danur (2017)
-https://bitball.b-cdn.net/movies/03-03-2020/03-28-2020/Danur.I.Can.See.Ghosts.2017.720p.NF.WEB-DL.x264.550MB-Pahe.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Danur 2: Maddah (2018)
-https://bitball.b-cdn.net/movies/03-01-2020/Danur.2.2018.Maddah.WEB-HD.1080p.DD.5.1.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Danur 3: Sunyaruri(2019)
-https://movie2.cinemakeren21.com/movies/indonesia/Danur.3.Sunyaruri.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Dilan 1991 (2019)
-https://movie2.cinemakeren21.com/movies/indonesia/Dilan.1991.2019.WEB-DL.720p.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Dear Nathan: Hello Salma
-https://movie2.cinemakeren21.com/movies/indonesia/dearnathan.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Kukejar Cinta ke Negeri Cina
-https://media-vidio-com.akamaized.net/uploads/1508152/ets-kukejar-20cinta-20ke-20negeri-20cina-20feature-1-d68d-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Basah
-https://media-vidio-com.akamaized.net/uploads/1514783/ets-basah-20full-20movie-1-91dc-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Ketika
-https://media-vidio-com.akamaized.net/uploads/1555237/ets-ketika-51fb-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Galih & Ratna
-https://movie2.cinemakeren21.com/movies/02-12-2020/Galih.dan.Ratna.2017.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Get married 1
-https://media-vidio-com.akamaized.net/uploads/1507783/get-20married-20feature-20-20convert-ea65-b1200.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Get married 2
-https://media-vidio-com.akamaized.net/uploads/1507784/ets-get-20married-202-20feature-20-20convert-fea7-b900.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (Indonesia)",Get married 3
-https://media-vidio-com.akamaized.net/uploads/1507491/ets-get-20married-203-20feature-20-20convert-08af-b8000.mp4.m3u8
-
-
-=====================================================================VOD Dedy (Indonesia 1)==================================================================
-
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Ayat-Ayat Cinta 2 (2017)
-http://srv24.nf21.net:80/files/15-2018-11-07-31623f82f631e22f304dc61fb9ae9975.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Bajaj Bajuri: The Movie (2014)
-http://srv28.nf21.net:80/files/6-2019-03-05-7957077294aed7aae01ed7548527c194.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Terbang: Menembus Langit (2018)
-http://srv28.nf21.net:80/files/11-2019-01-06-a873ac71241a867fe2aaeea36ecbe60c.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Insya Allah Sah 2 (2018)
-http://srv24.nf21.net:80/files/10-2018-11-04-dcbe1927ad12c18b3d39efe1e310b3b5.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Alas Pati (2018)
-http://srv21.nf21.net:80/files/15-2018-10-13-7548eba8d3cdfd16055c14605d86b83c.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Rompis (2018)
-http://srv28.nf21.net:80/files/15-2019-02-23-ba65b1712e9d0845b97ec790b4fa2b4b.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",The Secret Suster Ngesot Urban Legend (2018)
-http://srv21.nf21.net:80/files/15-2018-10-13-820280bd87facc3cb2ea0cb5297764c0.mkv
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Arini (2018)
-http://srv19.nf21.net:80/files/15-2018-08-19-4e022676b9971cfac33a65d84288c01d.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Benyamin Biang Kerok (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2a88269fa86b8dab2575101a66eb0732.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",London Love Story 3 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-a71af058b7e0658b357ae236e70ac799.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",My Stupid Bos (2016)
-http://srv18.nf21.net:80/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Revan & Reina (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-b7cf77aba6b14e81c281f9f9cc6d2474.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Partikelir (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-2ce82962771272049ff44e8f27cf3407.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Flight 555 (2018)
-http://srv19.nf21.net:80/files/15-2018-08-14-f0ddc7cdffd608547912ad3a1b33056f.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Suatu Hari Nanti (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-3d7d79b7e00aba5df3c61ce465e11cf8.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",5 Cowok Jagoan (2017)
-http://srv18.nf21.net:80/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Cek Toko Sebelah (2016)
-http://srv18.nf21.net:80/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
-#EXTINF:-1 tvg-logo="https://www.dedy.de/wp-content/themes/dedy/assets/images/logo-dedy.png" group-title="VOD Dedy (Indonesia 1)",Naga Bonar Jadi 2 (2007)
-http://srv18.nf21.net:80/files/15-2018-08-06-ea59a563a6a6a0a51ff4356a23035870.mp4
-
-
-#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD CAMPURAN 2",The Iron Crown (2019) Sub Indo
-https://cdn.apidev.icu/drive/index.php?id=lyvXsT4dhGjlQYEbFoNz6QjxbUv4%2BseZCbfAtBDByKAOyFArOyMJl1WmCPLPc4pKXdTTZdKYjGLeTThTO3gILCMm2Bif20koc%2FirupheZSC3KV%2F3b8cmIqZa%2FMawLnDxn0ah8D2Ud%2FGBO%2FIZkBnkcPuF0GOTG9XVnUn7QHoWkmRlytjw1aMZs0O9EDe7BXOzTxKD6TtfnzqbLxT7LVO89W&ref=https%3A%2F%2Fbos21.bid%2Fmythica-the-iron-crown%2F&res=default
-#EXTINF:-1 logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD CAMPURAN 2",AQUAMAN {Sub Indo}
-https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTiaZnJMuT6wI28t4yRE_rTyjKqAC3Lvg0eXF7WThdhivAf5fJQ" group-title="VOD CAMPURAN 2",VENOM 
-https://cdn.apidev.icu/drive/index.php?id=6enNzUc8IZpfvBxOHbjWigzGmohBAvI5u32aELfOwbDcRWmqu7kAxabqUk2aHOq9oZsUJ7UG2Ztr5d3fTdk1s4w293GXnPITRkrCYg2gIopeOhp1jrvr3NMKFJqERaGGCYCwam1wB%2B04l1NHmj5oN3pKC2tChel%2BkYS8K6pN8yoMkrVQdnp%2FAjjBwhuA46rts%3D&ref=https%3A%2F%2Fbos21.bid%2Fvenom%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTd63Ei2CAwQMv6Rouhe5q2IxO2sqiXaqHe5chHD5b541kp6NeT" group-title="VOD CAMPURAN 2",BUMBLEBEE {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=njIdTwPLly%2FGjaLEgTKTpgNbLgICupPymtQTSRq6%2BsVYlubYvHYenMAAC275He1CkLQuKTXpGeI7nFJ4HqHjTlskmu%2FJ61RbJJSICie%2F%2FX82KZ%2FCXeZ9gWUrhwBAG2MBPJkKjZp8qHusojUxAiUq%2FG2T5lMZYQgFukHWPlzIXik29rev1%2FBP53s9lEQMvUsYA%3D&ref=https%3A%2F%2Fbos21.bid%2Fbumblebee%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSked8c1p-P0N3MkBUbDVajRszVG-eGaaPkOyDL50TRPIgieoKi" group-title="VOD CAMPURAN 2",The NuN (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=9jLVWQOawPzGAAt93VLkaw1gD82fN%2B2GYqy11FOmyjj%2BgvOEFToA5HryytHXrtw%2B3bIuCuPWZmMppVAkAQT8sws0GGvS5Xjt09tW9SWq2QaCh8J1wrESk4xO0%2BJlx%2BPG6fa9pzPmtFmQAjzIc9qEq3uxpeSZ7D1g4vfzyxhVyTMVz9hxRXZcBv0AHi5IN08hs%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-nun%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsUxj_INERTndxMz1lQ0YLAHJCeURWOB-sRi8JfJFitYc-WhuG" group-title="VOD CAMPURAN 2",The Cabin (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=6bc1Gb6f2UuTV9fT9cKn9w8TLNG2VkPUd87T8x4789huTDNa8LQ4OsmidV03Ay%2F08qI4GtAcliLuhnKavlqYn0NgZZKRjwNTwZRSUFYhZQlRFas9IVmw7Nd5FgzuWmvnCgeL7xzIvwx9PfRiaEtx9Xc6ox5Z%2Fk6NWyWEuqB19muFc7Dy1xuirUtlgW73lqANk%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-cabin%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT3T7TUbP1aMx7vV42d3101OyCgeQ2AW4g9S6Zx8JQSo6-zCoH" group-title="VOD CAMPURAN 2",Tumbbad (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=DOLi0B%2FzoQd50xfwtPdXPQNqO4qgzJpmCYFNzcnq0RtTeLauTaWVbSlOm6sCCvB9FwwOhTvLqBqMnJHLC44NPR%2FZDFSKVSjz7W0GaRxid9%2FLgbBs7uBaCA%2Buwi2%2Fbblhb%2Fs60O5wuE0oN%2ByZHW6T5YFOv%2BtM6jq6ounetjRlwI8UywpcPRAcRkvAhDSKHLIco%3D&ref=https%3A%2F%2Fbos21.bid%2Ftumbbad%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXCKuZlnfLlFL9Fa00YA0hw1l_JaXX76vRE-XKBEWr93r-EpZS" group-title="VOD CAMPURAN 2",Scarecrow's Revenge (Sub Indo)
-https://cdn.clonefile.icu/drive/index.php?id=O1%2B4fmFLZJdiAtVhLn0rLgBuzsZJLYINP8SjXaGamR2TShBiwjiHf8uJ44s6Yh8B1IyIftca3y7DS%2FXVGfJmytlqDT7ioPKn9k9fzuMsGE3Wl%2FICHUreurw5hh1q5AkZFaff8ChsZ4alRObHIiYd5ZNGQPNPXcTG9t92MsqkF18RfX0FrymdYBI5e7PSpg%2Bf3M30tDCNkDcUPsjAvh4jEt&ref=https%3A%2F%2Fbos21.bid%2Fscarecrows-revenge%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTkkqX82e_M2m7XnLvsipvYkPeX_cnF_SKRaHdQ1IiLqUUoXApe" group-title="VOD CAMPURAN 2",The Wispering (Sub Indo) 
-https://cdn.clonefile.icu/drive/index.php?id=llg0kIAQCI8hxyhx9vq2sg1BywbpfC17Vg8yJPGwKBl35u9q3eiqDfqZ7pndSZ5W2UXFk6OqN3Vhg5rmEtHjTUP7gUwaPK%2Fg1Sx1zvp%2BkNtsHLeUkuisYKRl%2BLqx4NiJtD%2FoN72VssNkQZ22awKwVjKLizWAIIIKJXKnK5ZyjOvjwsmbVCSgstk2Upw1YhKDQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-whispering%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDB6CU75s74x7NcimSJABi2ExSDMAkTxUbACEMJV3ob0YkoxHv" group-title="VOD CAMPURAN 2",THE NIGHT COMES FOR US {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=4ssY7pVus%2FZYkeuu0Qn1Ug7MlzglwxgrYtoWyJi5jM%2FcXQ0K3IBZx2uhttJoxNCXdeX4XvMNwp9b2Opn3tvBKMrkGrDbIDKVxTR8OGcuQZAmvD8g90o1n92YGNA9kPu0bIjeQchmgnyEyYw5A7pqS8L5s%2Fsi3O2y4DIjEmCl3ecsBYK%2BPf22xskH3UqJFtgdA%3D&ref=https%3A%2F%2Fbos21.bid%2Fas-night-comes%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgEsOtkrhiCD01p2phNyb5050FeV1WWvj98fO0BgtHSla8Tfnr" group-title="VOD CAMPURAN 2",The Doll (2018) Sub indo
-https://cdn.apidev.icu/drive/index.php?id=7ZztOZg3nhfVUO7IJ7wv%2FATajoaq2Rja3RuXZ6tCne37cP0nbKrRw06qZLVUvpIsHBxKJdhu%2BAlhxUzffOct9jj3VG2nxdlc5RH94Ftfh9nt5EtqQca6D2F4aj5stvTmoqnPsBAkvGGGTAx0zxC2QvNbjIt%2BQrZqQ7bGcp2LTowXSOPKswtF6u1HQEIfsPZno%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-1%2F&res=default
-#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BMGFhZjY1YWItNjdiOC00ZDFmLWJlNGYtYjU4NDdiYTA1YTMyXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_UY1200_CR135,0,630,1200_AL_.jpg" group-title="VOD CAMPURAN 2",The Doll 2 (2019)
-https://cdn.apidev.icu/drive/index.php?id=5OMEtKxtQJ8ux9aJpERMOwQ7paIYjC8bRwrjzFm0yECXbv1IgEI2hc%2BlHHc6yIP9gVKvJuYs%2Fbv0bKid%2F5en9DP7pX8rUKKnEv%2BDOscJ1wy98Jo58rG7G2QJJoHllCGK%2FUiojLPzqvCiL56527pvzTk6TItGRi4J8My4ztWMEc2ek%2B%2FVvXm1bPB8rS2pq192c%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-doll-2%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWzuzuaEL4YvXTsmnqoRSr1L4ptf_UmZY92syHVFmIoVSUUVsb" group-title="VOD CAMPURAN 2",Perjanjian Dengan Iblis (2019) 
-https://cdn.apidev.icu/drive/index.php?id=vrcmevtgIywLTqsvNFZRwwWZYIP%2Frx0iwo%2F%2Fu%2BEK5Aygy%2FuGCueTc69aGP5hYLKLP%2FOMf6CqKcX40iUQS%2BMdbMrTvF%2BNMM395CJ9yeFObzl16GZbxXdSTr40glDKtADF0fsuJo%2Bf0lun0Y%2FmhClUmKvLAmVhkiXAVjhZt4tArBJQ0mGcLAhtliXCPWN8gMXz1CMGyTgdayspT90OvjEFMp&ref=https%3A%2F%2Fbos21.bid%2Fperjanjian-dengan-iblis%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwnDBuBAy951n9ml_TARUhvw1A5Bjbz-_YqxEDDQRwaLRNaLw-" group-title="VOD CAMPURAN 2",TABU : MENGUSIK GERBANG IBLIS (2019)
-https://cdn.apidev.icu/drive/index.php?id=Aoh6pdASNtWPRwx4tbR%2FTw2e4kOdabQbvAxIGJAIFWERe4aNWPzCtjm6b9bDGwu%2F8b44DFstxT4Dq1itQQvWOscY6%2FWkGk8WUQeGlsUpB1ib0CX2eCJEr619c6mshkJv51OSaK0zygq3Gl%2FVSgT0UmZRctq0pbNhigQUjI59CtJP5BdvczIDNKTcnu1FHnzro9QpzvIMZypZ70c39Ar5Nh&ref=https%3A%2F%2Fbos21.bid%2Ftabu-mengusik-gerbang-iblis%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRD8Vh9TsCVnrJIMFmDeXtD-_cxOGpLGjFsVxhuvl3SEuYoI0GO" group-title="VOD CAMPURAN 2",Dreadout (2019)
-https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwqYrV8hzq06myLVyENAiAhkk4hlGimR8A5gm6y3mylenmvBtp" group-title="VOD CAMPURAN 2",SATU SURO
-https://cdn.apidev.icu/drive/index.php?id=8gAu2PwGQwNPo5oy4U51XQ5VGhTahPZCxCiEnFu4M1E6saqJkny%2F4yeNeqRk7yL0ZkGWQ%2F6nVHEF21XSR8LSPiJ1gCneJPuK8X5iQXC0TrDwrJ1eGvGZe4WIKYQdhNMmsslixb3YOB%2FDOwaNgtTiW%2BP%2FBLHB%2FcJqI2Z3JlB5zgS5FbqhomMYdrqF%2BqB3CMGfY%3D&ref=https%3A%2F%2Fbos21.bid%2Fsatu-suro%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQP-_3fCkmFfaL_lhofuhlRrLi8tRG34J8Nc8Ej4AcG41GIakoa" group-title="VOD CAMPURAN 2",Suzanna: Bernafas Dalam Kubur 
-https://cdn.cloneapi.icu/drive/index.php?id=jCNMXUqGI5sc7uBEeXHV8wdZluqzTQGNFsydbyOoHysvMdL1uMg4buFb1BZApESg%2Bh4oL%2BKOPCCd800YyDCi5dWfOJzyVKYpIkXGxOfhlJmLV%2FjFyZYS%2BlULO3HgKlj%2FJBQIIzEzW3IVCBrcSm%2FDVaz5vf7925ZZ%2BDZXrT3BrHo%2B0J7dO7jijCTEAvfWhbIzU4QD3bE%2FG1iVfGtbPB6TyR&ref=https%3A%2F%2Fbos21.bid%2Fsuzzanna-bernapas-dalam-kubur%2F&res=default
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRNEDJvc7Sp-DakgYdDprl7YyeZWWBQ3LnuusxkfozRxgGUlZho" group-title="VOD CAMPURAN 2",Tusuk Jelangkung
-https://cdn.apidev.icu/drive/index.php?id=PbYxpduDge%2BTF4V2h%2F3l%2BQ8eyoTRNg8U1rHySiyTvO7ivrS1X4EJlnX75guPZSPxbhUlNK4%2Bef%2FMJ3Z8wx2w5IDYLB6jWGOyeS3MdoSXBG%2BwTBVe3usVgCeT9PoahDDslm8TzOyaWdnV6zxLsfv%2Fl0HpJ8vhR4Y3uhyWgPMtV0KWNh1nwKudorCSGfh8xUh6rGPupb8GQMnB4KJmKQnHgT&ref=https%3A%2F%2Fbos21.bid%2Ftusuk-jelangkung%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS-Ygp9ZGQgR_2ZKJavCBz67_AB1H0yNOL-AupI-muYDj-wWAPY" group-title="VOD CAMPURAN 2",Kalung Jelangkung
-https://cdn.clonefile.icu/drive/index.php?id=ENZ86kFYtD42CeCfOr%2BcSgpRONv9iWz2Ez7jzVNxePKGo%2BeNVGNuO0P1D%2BmhwsTf37E4WFQwYvMZpak7iGFoYs6ujw2aXQMhTMptrDOWkwhf%2FHSo0x0FVOhzf4J1%2FODQK5QZhbq2z%2BwQkrIVV2GZUY45WX%2F8kA8YIUcUfVcdwUR1aGPO8x49g0lDUC9vRuigbbqRxGmac8XUuZcGVApP3n&ref=https%3A%2F%2Fbos21.bid%2Fkalung-jelangkung%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSca0uU4_LfT51TLsKGMcPQHpEfPF0ox8neALWfxxRehUoFHvJc" group-title="VOD CAMPURAN 2",MATA BATIN 2 (2019)
-https://cdn.cloneapi.icu/drive/index.php?id=WEFxKcEL4fg%2BbUAFtOwXDg2rgOa9jxXLgYvPRuIuRaumeDZJOxZRkiFB4RPLpMXZrAsuvsN13xwv4kH%2Be34UiabYNRueZaULKRWEazun4RPBLEnYYBxScTsqEa1RHCYPhO%2Bofu%2BHvu%2FTst4A%2FuxKrvKajjca2bP9ItoI15ii6c8Iwj%2Bozm2lj0sr48v2C5juI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-3rd-eye-2%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS95EU5ZTTT47hciyLAnx0FiVBX8XYnvFjrJIjNv8tO1JHgsSZR" group-title="VOD CAMPURAN 2",DANUR
-https://www.googleapis.com/drive/v3/files/1GuT9dgin_72vuRxSMmNsKvwwTyVyxxlD?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrIULJJ5YqcSUbAaLIu3n-dPhrgz8uIWZW20hiL7yztw9v8yk4" group-title="VOD CAMPURAN 2",DANUR 2
-https://cdn.apidev.icu/drive/index.php?id=ZeCY2fIn9COiecFNbPy%2BlAw%2BrhP0EgIhhOmXS6W8pUlicAGnOnEAEzHePpSEBnEkS%2B05C4o9zkeQg4FmhlutYd1j0bhFV0XFVGHBXYJXWPeKuAZf0NdqFJ0slErgadJFCK5tdvgdj56vmS69iwKdo9uvSh2Hgrnek5qS8%2FW%2Be8HP5%2BI7m9f9su85oWu3Q3n%2BQ%3D&ref=https%3A%2F%2Fbos21.bid%2Fdanur-2-maddah%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJYutESDv0weAH6f5m1uyGnoaWEREWAHLisQJsP7dNXqpAcyGU" group-title="VOD CAMPURAN 2",PENGABDI SETAN
-https://www.googleapis.com/drive/v3/files/1holomG35K2jL2c9ZRCIB7IBCjCLgfnyF?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAKo-CLMsKYEY-pE8W5sdPDHmu5th5fgHnLJGL4rXJS1Bao9jC" group-title="VOD CAMPURAN 2",MUNAFIK {Sub Indo}
-https://cdn.apidev.icu/drive/index.php?id=tUO87cKoBABkZgpakP7W%2BgQsQKer92Sm%2FRdxQ2dwvOH78CNfLbIYQZ7yyya69Dixbo6rzu1tslwkq4JJ35aF5CsI2%2FLsd0zPL8%2FF6kDGaeFNyUWReG1P0JZAM4rhrOBTIy8K1S%2BRkCwWV8zCK%2FdCGmI59IPRwXSwjOKf6cjY8ljo%2BL0arIQeANeY2%2B3OIq1RA%3D&ref=https%3A%2F%2Fbos21.bid%2Fmunafik%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTItTl-BhkLE8N8L3mK-koxzUcE004HpAxyp1WBSl-r0Hxw-drj" group-title="VOD CAMPURAN 2",Ayat Ayat Cinta
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpUZCIuocujr9Ltv-C-1UgP950JfJ_EM5PSuTIn0HkzzMPJEHg" group-title="VOD CAMPURAN 2",Ayat Ayat Cinta 2
-https://www.googleapis.com/drive/v3/files/1nndae8H9aOzKItZboDdeGWusXlhVBlZ4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD CAMPURAN 2",Si Doel The Movie
-https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD CAMPURAN 2",Galih & Ratna
-https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD CAMPURAN 2",Soekarno: Indonesia Merdeka
-https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD CAMPURAN 2",Habibie & Ainun
-https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
-
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Skyscraper_%282018%29_film_poster.png" group-title="VOD CAMPURAN 2",SKYSCRAPER {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1YdrT-WhduFYnK0qtm_7BJ1pwU3MQs4uM?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQpVd9scm84XWyDkHM2dlahM-zxdLs0D9D95A0HpvX3Y_0Z8NP7" group-title="VOD CAMPURAN 2",THE CAR ROAD TO REVENGE {Sub Indo}
-https://cdn.clonefile.icu/drive/index.php?id=8bY55hcAsfPjEBMRluOCnABT8MgMek%2FZRHBVyf%2BGhkBN%2Ff5KE9tGvvSQEs%2FK8M9xjWNvt%2F7mO0%2FpzUFOMi5%2BSV3eHZ1UdE8yO%2FzpOqIVtz2BmvZGl4E60LS7sr82r08d45DtWVnXHhO2lXlVfR6rjuezQ7K85Aa44HQCADdjSi3zVZCZKWkLWvuESE8yxkRDMaOwQ6Ed5XDBgfsHqOWUIU&ref=https%3A%2F%2Fbos21.bid%2Fthe-car-road-to-revenge%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSqvc245HiADjrmhc6lsvv-jKACRJjxf8MN-pVTvbVCtHTpx4fa" group-title="VOD CAMPURAN 2",JUMANJI: WELCOME TO THE JUNGLE {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1ycWd64JYv_P93jprbTZAJj4twRWJ9WiO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTETEu8yLlKa_aBiqdQjNpr2lyxvlkfL1RSyfZH0JpiuTL7Yto4" group-title="VOD CAMPURAN 2",TOMB RAIDER (2018) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1Blv4t2kZFYP2R1qNnL-I7ISEbcGlvo0U?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSHiJKvhW475fcOrdTpi0GFPeri06kyxau2f97zZAB7KTnJh8dP" group-title="VOD CAMPURAN 2",THE LEGEND OF SECRET PASS (2019) {Sub Indo}
-https://id.terafile.net/the-legend-of-secret-pass2019-360p.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHm8rkApfzkjxFupeU8KXO7UctlaI_2eHdMsdBwXP47FRUzEKa" group-title="VOD CAMPURAN 2",MULE (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1YsXH2V6TbScWzERFrACm9lTvBLuLobcs?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgNZz3lx3_gb7VGABWqao-hsR0s1SJCnZ0y25c0-3Jim2N3IEm" group-title="VOD CAMPURAN 2",COLD PURSUIT (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1oSWO6PTNM1nb6TnS6PDXj0C0JdNJqRMG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdt4H1K5i-0IdpRzGMA3_poCAvV2y4bRdDfNqRYD6ZJLG8-4oJ" group-title="VOD CAMPURAN 2",AVENGERS: ENDGAMES HD (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/18_FetnajYa5qNM2eRkqlVFGbZRtEjBfb?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4m2V5gDv7A7hFo9F1diuAUB6RZnHc0QrW5JsmitjnOY8-zIPZ" group-title="VOD CAMPURAN 2", INSIDIOUS: THE LAST KEY (2019) {Sub Indo}
-https://www.googleapis.com/drive/v3/files/1px8eLVDzVtnDz5C3ptZcaPt2AfBRw7lp?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwaxWjOWMS01sBwD7_cPnwSfB3AEBzA7CTxTBKD2Ik_33BkLw3" group-title="VOD CAMPURAN 2",JESSIE (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=ktgAy6pfyu9L6K4HtVHlfQUCgFSImD4IrxQ2doj95vqhwWSf840t97da0prNHTqJEXKezA1J4Npb2TZtB9NC72E3%2F1fv6IM%2Fr6PEMUMOV696fvvMfj5EigIs6Xai9BxHxCI3lAz%2FOiqLlL1CcZQW9cIKxoHl4bJw%2FO64B8bhVeul9Q1NgyZ1ULfsWkenWS3CE%3D&ref=https%3A%2F%2Fbos21.bid%2Fjessie%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTqpoEgb1eEO0qjkrMAq2CLo9TZbhp4p0UkdP6fmWTEG0Knen7J" group-title="VOD CAMPURAN 2",UNDA (2019) 
-https://cdn.apidev.icu/drive/index.php?id=905A7%2Fe2YENvh7FT7jbsGQpNJEYkhfKkyGK93lY0aPyIS048vx6ME27YNXMA54Fk8FI9r1KEZTBPUA%2FjUKfFBEr9yeaDWUe7c%2BpdSChm268wzXCJyk0JDz6V0av9228icvWUYJURWRUvAtq5BsmyuoO7jUZdvfUMAXkU%2BR0%2FGDfBAq%2B6tWC9ldqiOYePfgkHw%3D&ref=https%3A%2F%2Fbos21.bid%2Funda%2F&res=default
-#EXTINF:-1 logo="http://themoviebear.com/images/201908/thumb_img/1243_thumb_G_1565389851882.jpg" group-title="VOD CAMPURAN 2",A Score To Settle (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=qhD9HZlA9Xbf%2FMflmswYmQGJKCyBt1a9M1sqiXvs3cv0I1O7ZOM8bxPxzzzGQJnRIUvG99coirCpCyZPAxXzt2RCR637O0xOZ%2FvvC5nDt7evBnFmDRPZ5RYD5QhetzLxCbCj%2FpPMhNC0%2F2ioEssEg6gkEon8uy%2Fbev1pIPPG7c1tHEx45xRgtR51851ObHgXL65%2F33CxKnUtaUgFUyzmc9&ref=https%3A%2F%2Fbos21.bid%2Fa-score-to-settle%2F&res=default
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Bharat_film_poster.jpg/220px-Bharat_film_poster.jpg" group-title="VOD CAMPURAN 2",Bharat (2019) 
-https://cdn.cloneapi.icu/drive/index.php?id=4spaMcjKAHB10bV3BeQEiAtaobmRKskePYjKvCI9xz%2FHbPsPxbHpHKQVM%2FxCtF%2B6oeCLAlogc%2BODheSnZcfz1WQUQyf9g35aM3iN1kkPSTyoxw1Z%2BP6DdNcOaIx3cJjdnstpPkswwLPanV2BTzMrCsn%2BpliORGvASTmjLxfonKvc%2BjznGjWLibvvnn8o5DBKg%3D&ref=https%3A%2F%2Fbos21.bid%2Fbharat%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT9kBsQv_9R6onI_SyYnp-fr53Dks62Mzo73xaDjKs3qalxkhDh" group-title="VOD CAMPURAN 2",Seven (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=ytHdUFZ%2Bxo7B4mnlY01uXQYPHvRR40cw%2F5k%2BeAmesW%2F0pJRf8Wwj4iJaJV5HD59%2B6ZhiplFjfIXaOMsJOcCMYOkvx08mbhovd6nnClOwoo1LT4aMFqrEptCCAqMqtwz8x%2BKwQKVcriH90QTJvP0UI2xv%2FcoLEsg9tICI8TAog1kDMPzJnW9Jy45dzbsOVfH90%3D&ref=https%3A%2F%2Fbos21.bid%2Fseven%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPmZq42FYNtxAB6usVEzjipmvij0YeeQw85EzPCXe4IBVsQKlb" group-title="VOD CAMPURAN 2",Time To Retaliate: MASOOM (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=seG3hwGglcG7sN2zokhXrwmMEWhFYi0ZkP8Ym7PBzRy1OP3eEFWa97F71sTCOG97mksNf5gLDhxReQJGSzAhRYSQZ5lAQ8ILylxS8tZXt5Acjurq7%2Fq%2B5QXViFx9DgvJkAWrT1DvkntzmdIMJx8tQjrg67uEbz%2F%2BHza7B1Z1h1nP8UDCmQByuHsjQBPiKt19%2BVQ%2FXopf5gGrC5zV6sNg8P&ref=https%3A%2F%2Fbos21.bid%2Ftime-to-retaliate-masoom-2%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5db1tmORO2rZrlbcg_EXqHRioNcBIRnzwNumyfjBghlGfvtU-" group-title="VOD CAMPURAN 2",The Great Hack (2019) 
-https://cdn.apidev.icu/drive/index.php?id=sQixUUB2mGsTPjnBLc%2F3HA8YmSIr%2BjA3aISMrbQXzlCQaydOaOIL09FfpBLm3DrJHEeArEwL4T8QT8Mtu0rxcLyVdFAca6zoZlA7ULXEiLEK%2FTCJ0CGFHrl1%2Bt%2FBdHnLN3Y8dQKFqvpvpjinpQGp52wRjjteciDp1x71%2FK3SXo4StjDeYSAf56pyZiW3E1g%2FI%3D&ref=https%3A%2F%2Fbos21.bid%2Fthe-great-hack%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSzZHlomrQ8gpEE8BIOFNl86qpd8i_GAOy3CfKOnvw1q7rxNv6w" group-title="VOD CAMPURAN 2",El Chicano (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=gAs52XEWaSy8ENes17sFUwx0yXZvfGwt949EIJ%2BFbITHnR1TYBRKXUqbMetRC576NHH6H5xlrpWUpbiSP6WhDvRo4fs9ZBGUyILIXqXBkBnW96kOCw1w%2F0CVBlvX5HRgVsB7XbtyCAFR%2BCDRIPggzUHuuh5T9IjtkTmDJKnzLX8wAimpyE2zBcw9B2ZkBKzyM%3D&ref=https%3A%2F%2Fbos21.bid%2Fel-chicano%2F&res=default
-#EXTINF:-1 logo="https://cdn.cinematerial.com/p/500x/nksojhup/batman-hush-movie-cover.jpg?v=1563687047" group-title="VOD CAMPURAN 2",Batman: Hush (2019) 
-https://cdn.cloneapi.icu/drive/index.php?id=N%2Bi2ByjvYLyRKAoyr9HMhwvQ%2F5Y%2BnL10Lb3H9wi0joj1s67Pnz0SOAhY1Aiyg74UOJzL3RLKtu7Ajg6jScNWhmVYbhr%2F69NyJEGl9Q4c7rrezbRnh%2BMqQcZM%2FL3xu6lmKt2Rm3zTkwPyXXgwxIUlpKm35FhJphWJ7ZvZq%2FzPdLmBjTDVK%2Bp3xPigr%2BiQGYNoE%3D&ref=https%3A%2F%2Fbos21.bid%2Fbatman-hush%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSfXklD3GkdA5gxiw7PhxN_IR8KKjEEAjf34EJUN2_RKbo1_B5" group-title="VOD CAMPURAN 2",Pokemon Detective Pikachu (2019) 
-https://cdn.apidev.icu/drive/index.php?id=x%2Bqtp8%2BFn8Km2SZIX1WOJgqsvCig4I4r%2BRO9Py78lYoKWTcTi%2FtAB5bDu3amluh0MGMxpb8D3qygyc%2F5gcbX%2BEu5xIrW0A6K4qfYogC%2BWbTZDIlQg2xmWD5xKfAdUfGpSgjBguYJ4j4LJACgytFukRafqiP46JjJHNN%2FM%2FOe7vxJr8SIQBKxxXMnuaekZfZtl1Y%2F%2B3BwuhXdNXZyjXD9y3WZbqZCzEiOo6VylEB%2FI5Pg%3D%3D&ref=https%3A%2F%2Fbos21.bid%2Fpokemon-detective-pikachu-bluray%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcWwRMaUJ34ihcSyvZrob59Q3-DkTScAXgUNsDwh7k2BLm_nWm" group-title="VOD CAMPURAN 2",The Immortal War : Resurgence (2019) 
-https://cdn.apidev.icu/drive/index.php?id=SDL8%2FFxgey%2B87NVzHzUWMQbvzI357hQoCk1pfSKmXIEfegy5I2wThsIUAsTXLXFHIqt0Fgod8lGQex5pwLsGHWcpEej3h6oobriYE6d%2BUJ3ZIZz4%2B6jZivEb5DLpNwBd7MFpnzQJ%2FsTU2S9CJ9iF1GkD6xkgKrhUGOsi%2FfgghaEDCWXJy9ybpGNvUjHe82bUyizuO5b36X75vGRih8YwJH&ref=https%3A%2F%2Fbos21.bid%2Fthe-immortal-wars-resurgence%2F&res=default
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHJtlWeFgExSsSwDaGlnPoTIgWfw9AtNOoU7tNLvFR1UGj-T1G" group-title="VOD CAMPURAN 2",Hollow Point (2019) 
-https://cdn.clonefile.icu/drive/index.php?id=zHUPbjg%2BUb3gMFD944L0ZAkI5mriF5eA43q%2FQlk9xNTgiotwQvBHMypOOavp%2BR4p8tGlsyzgLFUf47zZFZjSfj543N%2FJE5n702jMW2lwWxzispkUyluyX6aE9FG%2BWtviQIyNOtE0hV4LYuTZwRa75jCwkEgoCCylkB11XGmrVAeRhbL5KhaDp0xcmimE16I40%3D&ref=https%3A%2F%2Fbos21.bid%2Fhollow-point%2F&res=default
-
-===================================================================  VOD Dedy (New)  ======================================================
-
-
-#EXTINF:-1 group-title="VOD Dedy (New)",Peninsula ( Train To Busan) (2020)
-https://bitball.b-cdn.net/movies/2020-08/08-18-2020/req/Train.to.Busan.2.Peninsula.2020.1080p.WEB-DL.H264.AC3-IDFL.info.mp4
-#EXTINF:-1 group-title="VOD Dedy (New)",Deap blu sea 3 (2020)
-https://cdn1.diebutx.com/ownhls/2020/406954f70aa9d99fafb5ee4462465c11/720p/index.m3u8?nimblesessionid=58509508&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTI6MTI6MTEgUE0maGFzaF92YWx1ZT1PNU8yS1RCTmNEUDdQYWFOUndyVElRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjAgMTI6MTI6MTEgUE0maGFzaF92YWx1ZT1PNU8yS1RCTmNEUDdQYWFOUndyVElRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD1kMDQ3Y2YyYTQ1OGRhYTE3YTQ3NzAyZWVjM2FkZTZkYQ==
-#EXTINF:-1 group-title="VOD Dedy (New)",THE LOCKDOWN One Month In Wuhan (2020)
-https://www.dropbox.com/s/qlmafvaavomm6jg/the-lockdown-one-month-in-wuhan.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New),Bad Boys For Life (2020)
-https://www.dropbox.com/s/z9hfde6gtr7amsr/Bad%20Boys%20for%20Life%202020.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Bloodshot (2020)
-https://www.dropbox.com/s/zivk90uakhkpeiy/Bloodshot.2020.720p.WEBDL.x264.GalaxyRG.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Bloodhound (2020)
-https://www.dropbox.com/s/h3bqsqd1fned7ex/Bloodhound.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New),Ana (2020)
-https://www.dropbox.com/s/26n7fad4biwty8g/Ana.2020.720p.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New),Final Kill (2020)
-https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Onward (2020)
-https://www.dropbox.com/s/6qtmxzs9c6bxcul/Onward%202020%20720.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Escape from pretoria (2020)
-https://www.dropbox.com/s/xk11zn14nongrct/Escape.from.Pretoria.2020.WEB-DL.720p.PlanetIPTV.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Dawn (2020)
-https://www.dropbox.com/s/3wm0zn6xgdqj64i/The.Dawn.2019.WEB-DL.x264-FGT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Sonic the Hedgehog (2020)
-https://www.dropbox.com/s/4348i6rx7pj4v6f/Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT-Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Mountain King (2020)
-https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Birds of Prey (2020)
-https://www.dropbox.com/s/kd4jy6jrdbjaesa/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.KORSUB.HDRip.x264-STUTTERSHIT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Dolittle (2020)
-https://www.dropbox.com/s/eniep91e4dlvwdp/Dolittle.2020.HDRip.x264-STUTTERSHIT.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Secret Zoo (2020)
-https://www.dropbox.com/s/tqwawgj7js5daaf/Secret.Zoo.2019.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Sonic The Hedgehog (2020)
-https://www.dropbox.com/s/4348i6rx7pj4v6f/Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT-Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Miss Americana (2020)
-https://www.dropbox.com/s/0lklsg202x2oqm9/Taylor.Swift.Miss.Americana.2020.PlanetIPTV.mkv?dl=1
-
-#EXTINF:-1 group-title="VOD Dedy (New)",Timmy Failure Mistakes Were Made (2020)
-https://www.dropbox.com/s/w5mgoxw1728kv02/Timmy.Failure.Mistakes.Were.Mad_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Come To Daddy (2020)
-https://www.dropbox.com/s/pa3y9kwc6yce6un/Come%20to%20Daddy.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Alien Outbreak (2020)
-https://www.dropbox.com/s/dzaisibmzbgxec0/Alien.Outbreak.2020.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Dragonheart Vengeance (2020)
-https://www.dropbox.com/s/yuoh53djv71lzr8/Dragonheart.Vengeance.2020.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Windemere Children (2020)
-https://www.dropbox.com/s/7llt3mtkek7hfb8/The%20Windermere%20Children.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Heavenquest-A Pilgrim's Progress (2020)
-https://www.dropbox.com/s/htxu4ik7v5ovq7j/Heavenquest.A.Pilgrims.Progress.2020.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Elsewhere (2020)
-https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Coda (2020)
-https://www.dropbox.com/s/yt7jpkpwc6wbdri/Coda%20%282020%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Horse Girl (2020)
-https://www.dropbox.com/s/4bna84zhb3hbpfs/Horse.Girl.2020.720p.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Alone (2020)
-https://www.dropbox.com/s/nx21vxr502bz2ks/Alone_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Angels Fallen (2020)
-https://www.dropbox.com/s/q6rltmelij3486t/Angels%20Fallen.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Grand Theft Auto Girls (2020)
-https://www.dropbox.com/s/044cyqqyswvzjz2/Grand%20Theft%20Auto%20Girls.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",John Henry (2020)
-https://www.dropbox.com/s/zlkridfxsdtiibl/john%20herry.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",To All the Boys- P.S. I Still Love You (2020)
-https://www.dropbox.com/s/0kdfmlyqu6lantz/To.All.the.Boys.P.S.I.Still.Love.You.2020.720p.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Inmate Zero (2020)
-https://www.dropbox.com/s/sokbe4vb7agbmxj/Patients.Of.A.Saint.2019.WEB-DL.x264-FGT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",6 Underground (2019)
-https://www.googleapis.com/drive/v3/files/13b_vLwMkFVp3W8HgBi21pt6I91uQjVec?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Dedy (New)",Ana (2020)
-https://www.dropbox.com/s/26n7fad4biwty8g/Ana.2020.720p.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Alone (2020)
-https://www.dropbox.com/s/nx21vxr502bz2ks/Alone_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Angels Fallen (2020)
-https://www.dropbox.com/s/q6rltmelij3486t/Angels%20Fallen.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Alien Outbreak (2020)
-https://www.dropbox.com/s/dzaisibmzbgxec0/Alien.Outbreak.2020.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Aladdin 2019
-https://www.dropbox.com/s/9p9ir5n323ubkod/Aladdin.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Dolittle (2020)
-https://www.dropbox.com/s/eniep91e4dlvwdp/Dolittle.2020.HDRip.x264-STUTTERSHIT.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Dragonheart Vengeance (2020)
-https://www.dropbox.com/s/yuoh53djv71lzr8/Dragonheart.Vengeance.2020.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Dark Phoenix (2019)
-https://www.dropbox.com/s/bckz0xk59nndoyh/X.Men.Dark.Phoenix.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Daremon Nobita Chronicle of The Moon Exploration
-https://www.dropbox.com/s/l7hx76btwsq0hih/Doraemon.Nobita.Chronicle.of.the.Moon.Exploration.Bluray.720p.2019-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Escape from pretoria (2020)
-https://www.dropbox.com/s/xk11zn14nongrct/Escape.from.Pretoria.2020.WEB-DL.720p.PlanetIPTV.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Elsewhere (2020)
-https://www.dropbox.com/s/k2dn9cqnp2pgm48/Elsewhere%20%282019%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Extra Large
-https://media-vidio-com.akamaized.net/uploads/1514863/extra-20large-20feature-1-f7ea-b1200.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (New)",Final Kill (2020)
-https://www.dropbox.com/s/7c8mzu4hxuyjua3/Final%20Kill.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Fast and Furious: Present Hobbs and Shaw
-https://www.dropbox.com/s/k4qimz4r99ab1kg/Fast.and.Furious.Presents.Hobbs.and.Shaw.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Foxtrot Six (2019)
-https://www.dropbox.com/s/t2i5h7kpp2yf01j/Foxtrot.Six.2019.HDTV.720p.PF21.Net.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Grand Theft Auto Girls (2020)
-https://www.dropbox.com/s/044cyqqyswvzjz2/Grand%20Theft%20Auto%20Girls.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Ghost Writer
-https://www.dropbox.com/s/rcli4iwax3ig1q5/Ghost.Writer.2019.WEB-DL.720p-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Heavenquest-A Pilgrim's Progress (2020)
-https://www.dropbox.com/s/htxu4ik7v5ovq7j/Heavenquest.A.Pilgrims.Progress.2020.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Horse Girl (2020)
-https://www.dropbox.com/s/4bna84zhb3hbpfs/Horse.Girl.2020.720p.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Hangout (2016)
-https://movie2.cinemakeren21.com/movies/02-12-2020/Hangout.2016.WEB-HD.720p.DD5.1.FMZM.mp4
-#EXTINF:-1 group-title="VOD Dedy (New)",Inmate Zero (2020)
-https://www.dropbox.com/s/sokbe4vb7agbmxj/Patients.Of.A.Saint.2019.WEB-DL.x264-FGT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",IP MAN 1
-https://lh3.googleusercontent.com/oMGp_o3U-InROk-2o3nP-AqbKi_vjjZN2bZCchdqLcCtgdSOrMNSHNm6HbyPHBTr1ZlZS5Aubrkcxuy1jg=m22
-#EXTINF:-1 group-title="VOD Dedy (New)",IP MAN 2
-https://lh3.googleusercontent.com/VfnOW9uLw5QwzvELL6GhHDj_lmuVX8lEuXGwjEn0WI34BqWAFhoTbgeLHlPxWQOO12jB2kVh88eH9gTqEQ=m22
-#EXTINF:-1 group-title="VOD Dedy (New)",It: Chapter 2
-https://www.dropbox.com/s/0lr0mkyi88at478/JURAGANFILM.ONLINE%20-%20It%20Chapter%20Two%20%282019%29%20jf.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",John Henry (2020)
-https://www.dropbox.com/s/zlkridfxsdtiibl/john%20herry.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",John Wick: Chapter 3 - Parabellum (2019)
-https://www.dropbox.com/s/rme7r96ezkq6ceq/John.Wick.Chapter.3.Parabellum.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Mountain King (2020)
-https://www.dropbox.com/s/6vs7vxjsgd3iibh/wild.king.2020.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Miss Americana (2020)
-https://www.dropbox.com/s/0lklsg202x2oqm9/Taylor.Swift.Miss.Americana.2020.PlanetIPTV.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Men in Black: International (2019)
-https://www.dropbox.com/s/uc8kca0ifmhwa5r/Men.in.Black.International.2019.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Mission Impossible Fallout
-https://www.dropbox.com/s/l439c96kohbg45g/TERBIT21.COM%20-%20Mission_%20Impossible%20%E2%80%93%20Fallout%C2%A0%282018%29.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Never Back Down
-https://media-vidio-com.akamaized.net/uploads/1856716/ets-never-20back-20down-20edit-dfec_37a4a062_premier.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (New)",Onward (2020)
-https://www.dropbox.com/s/6qtmxzs9c6bxcul/Onward%202020%20720.mkv?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Rambo: Last Blood
-https://www.dropbox.com/s/v356ib68gtf5b00/rambo-last-blood-2019-2-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Sonic the Hedgehog (2020)
-https://www.dropbox.com/s/4348i6rx7pj4v6f/Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT-Sonic.The.Hedgehog.2020.HDRip.x264-STUTTERSHIT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Secret Zoo (2020)
-https://www.dropbox.com/s/tqwawgj7js5daaf/Secret.Zoo.2019.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Spider-Man: Far from Home (2019)
-https://www.dropbox.com/s/0cx0bfyddhqilc5/Spider.man.Far.From.Home.2019.720p.Bluray-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",THE LOCKDOWN One Month In Wuhan (2020)
-https://www.dropbox.com/s/qlmafvaavomm6jg/the-lockdown-one-month-in-wuhan.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",To All the Boys- P.S. I Still Love You (2020)
-https://www.dropbox.com/s/0kdfmlyqu6lantz/To.All.the.Boys.P.S.I.Still.Love.You.2020.720p.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Dawn (2020)
-https://www.dropbox.com/s/3wm0zn6xgdqj64i/The.Dawn.2019.WEB-DL.x264-FGT.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Timmy Failure Mistakes Were Made (2020)
-https://www.dropbox.com/s/w5mgoxw1728kv02/Timmy.Failure.Mistakes.Were.Mad_2.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Windemere Children (2020)
-https://www.dropbox.com/s/7llt3mtkek7hfb8/The%20Windermere%20Children.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Secret Life of Pets 2 (2019)
-https://www.dropbox.com/s/m3vffm6811izs9b/The.Secret.Life.of.Pets.2.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Tears of The Sun
-https://www.dropbox.com/s/22t1er4zhs0c6ts/%28720p%29%20tears.sun.2003-PusatFilm21.com.mp4.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Mummy Rebirth
-https://www.dropbox.com/s/xqygalvww0jfa2j/The.Mummy.Rebirth.2019.720p.WEB-DL-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Lion King
-https://www.dropbox.com/s/ipgbdha0u4g1c52/The.Lion.King.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",The Secret Life of Pets
-https://www.dropbox.com/s/m3vffm6811izs9b/The.Secret.Life.of.Pets.2.2019.720p.BluRay-PusatFilm21.com.mp4?dl=1
-#EXTINF:-1 group-title="VOD Dedy (New)",Toy Story 4 (2019)
-https://www.googleapis.com/drive/v3/files/1qqoaQhZ5PQrC833n7lpKVoCLZMqlR3jd?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Dedy (New)",Promise
-https://media-vidio-com.akamaized.net/uploads/1843651/ets-promise_ftr-4d54_b07d8137_premier.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (New)",Quickie Express
-https://media-vidio-com.akamaized.net/uploads/1648635/ets-quickie-20express-20vidiocom-1-2b31-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (New)",The Mentalist
-https://media-vidio-com.akamaized.net/uploads/1633022/ets-the-20mentalist-20vidiocom-f33a-b8000.mp4.m3u8
-#EXTINF:-1 group-title="VOD Dedy (New)",Birds of Prey (2020)
-https://www.dropbox.com/s/kd4jy6jrdbjaesa/Birds.Of.Prey.And.The.Fantabulous.Emancipation.Of.One.Harley.Quinn.2020.KORSUB.HDRip.x264-STUTTERSHIT.mp4?dl=1
-
-
-====================== VOD KOREA ==============================
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RPc7ZdF/Tunnel-Teo-neol-2016.jpg" group-title="VOD Korea", Tunnel / Teo-neol (2016)
-https://www.googleapis.com/drive/v3/files/1Wzl1VJnrncB0BZad_377awDcZj6DX8oG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0M9MDH6/The-Odd-Family-Zombie-on-Sale-2019.jpg" group-title="VOD Korea", The Odd Family: Zombie on Sale (2019)
-https://www.googleapis.com/drive/v3/files/1VUesF1Vuuz9YgxkDuRQ2og4sbtHQ11k2?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FKXHV11/My-Punch-Drunk-Boxer-2019.jpg" group-title="VOD Korea", My Punch-Drunk Boxer (2019)
-https://www.googleapis.com/drive/v3/files/1o3wXDIg7d7gtVLfUEARmgYiBKTJ8KADM?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JvYfdwT/Unstoppable-2018.jpg" group-title="VOD Korea", Unstoppable (2018)
-https://www.googleapis.com/drive/v3/files/1gy3U1j9VZAi1uIZwOk4xYLiRUbxtFqoE?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVMXfHD/The-Bad-Guys-Reign-of-Chaos-2019.jpg" group-title="VOD Korea", The Bad Guys: Reign of Chaos (2019)
-https://www.googleapis.com/drive/v3/files/1bPaMy-l_GezTlC1YSi55dXsEJA1rP96-?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkH5qmY/Birthday-2019.jpg" group-title="VOD Korea", Birthday (2019)
-https://www.googleapis.com/drive/v3/files/1yUOxZXyNYUqLDGFG3z8C4gIQLtV8x8Ih?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vHXYMxP/Ghost-House-2004.jpg" group-title="VOD Korea", Ghost House (2004)
-https://www.googleapis.com/drive/v3/files/1fdmvZn51jN-bQFHqC0ikf6KNySmPHct8?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4gjQLF0/Another-Child-2019.jpg" group-title="VOD Korea", Another Child (2019)
-https://www.googleapis.com/drive/v3/files/1E9-i4oHMqCzdW60ATlMykxHoU-qRcQ4u?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kStpF5G/Shadows-in-the-Palace-2007.jpg" group-title="VOD Korea", Shadows in the Palace (2007)
-https://www.googleapis.com/drive/v3/files/13pUU_m-y_n3up-RI9VjbmqrqqbHxxvKh?alt=media&key=AIzaSyDiIW45Qm9LyIgGDXMCw-46MeYQvWYVJ8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyrpkbt/Tune-in-for-Love-2019.jpg" group-title="VOD Korea", Tune in for Love (2019)
-https://www.googleapis.com/drive/v3/files/1RaRuD8KPAD3kr1YdzKRwfaqiCx4SDn8e?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KN5xsvL/What-a-Man-Wants-2018.jpg" group-title="VOD Korea", What a Man Wants (2018)
-https://www.googleapis.com/drive/v3/files/1VUbvCOkpJHMmTCaDrQbyIeNWxOo3dlFm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4mL8H1B/Parasite-Gisaengchung-2019.jpg" group-title="VOD Korea", Parasite (Gisaengchung) (2019)
-https://www.googleapis.com/drive/v3/files/1hj6s6ywR4TERoWfz-omJaJd8FH5kuhKV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HTVYyxQ/The-Flu-2013.jpg" group-title="VOD Korea", The Flu (2013)
-https://www.googleapis.com/drive/v3/files/15lBMUiLO_oE7czFiguKyLmA2Xq5mYBtK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSJ9nSq/Witness-2019.jpg" group-title="VOD Korea", Witness (2019)
-https://www.googleapis.com/drive/v3/files/15-zwqQLxIZyAD5aJHLAesP7R9swV58Ed?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FYgK7XV/Little-Black-Dress-2011.jpg" group-title="VOD Korea", Little Black Dress (2011)
-https://www.googleapis.com/drive/v3/files/1VdhT0h9I30BL8KKa_IChv_Qjy6LBtTpm?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GTVj8gy/Burning-2018.jpg" group-title="VOD Korea", Burning (2018)
-https://www.googleapis.com/drive/v3/files/1HKAxJUi-pfd27z2TGmWobOJ0YlkmJULk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7bZ2XhG/Svaha-The-Sixth-Finger-2019.jpg" group-title="VOD Korea", Svaha: The Sixth Finger (2019)
-https://www.googleapis.com/drive/v3/files/1eFk_0qduzFOgzw8z9c85YROKUEkH2Cft?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n3HxZQj/Jo-Pil-ho-The-Dawning-Rage-2019.jpg" group-title="VOD Korea", Jo Pil-ho: The Dawning Rage (2019)
-https://www.googleapis.com/drive/v3/files/10Ew-qqqk2dJVUq0wLQ9Fq4AqHLElGRwx?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-
-
-===================================================================================== TEST   ==========================================
-
-
