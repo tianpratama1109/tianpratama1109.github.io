@@ -1,6 +1,6 @@
 //<![CDATA[
 var setting = {
- exceptionurl : "bingobiru.com.google.com,bp.blogspot.com,facebook.com,trav4life.site,twitter.com",
+ exceptionurl : "www.bingobiru.com.google.com,bp.blogspot.com,facebook.com,trav4life.site,twitter.com",
  path : "#?o="
 };
 //]]>
