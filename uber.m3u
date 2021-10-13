@@ -1,0 +1,10 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SIARAN LANGSUNG",LIVE 1
+https://etslive-2-vidio-com.akamaized.net/exp=1634121088~acl=/hls-p/ingest_8111_*/*~hmac=992a2c9b22623170be80b68448fc88f422124232fdfa136a3cb56959d6885cbe/hls-p/ingest_8111_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="SIARAN LANGSUNG",LIVE 2
+https://cdn12jtedge.useetv.com/joss/133/useesports2/chunklist_w327298168_b1344100_sleng.m3u8?enc=ouvhnBXvAoWtJkbDWKlLrw&uid=NzNkYjA1MzBkOGIzMDMzOTMzNjQyZWNkMWYxZDk5ZmU=&exp=1634114843
