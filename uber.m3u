@@ -8,3 +8,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1634121088~acl=/hls-p/ingest_8111_
 
 #EXTINF:-1 tvg-logo="" group-title="SIARAN LANGSUNG",LIVE 2
 https://cdn12jtedge.useetv.com/joss/133/useesports2/chunklist_w327298168_b1344100_sleng.m3u8?enc=ouvhnBXvAoWtJkbDWKlLrw&uid=NzNkYjA1MzBkOGIzMDMzOTMzNjQyZWNkMWYxZDk5ZmU=&exp=1634114843
+
+#EXTINF:-1 tvg-logo="" group-title="SIARAN LANGSUNG",LIVE 3
+https://etslive-2-vidio-com.akamaized.net/exp=1634123363~acl=/hls-p/ingest_6786_*/*~hmac=3ccf6cd101d0814647fcf1a4202712533eb1716943812a0f9b6bafa2171b5f87/hls-p/ingest_6786_720p/index.m3u8
